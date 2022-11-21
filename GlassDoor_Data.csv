@@ -1,0 +1,988 @@
+,Company,Location,Global Company Size,Industry,Salaries,Jobs,Rating,Reviews
+0,Tata Consultancy Services,39 office locations,10000+ Employees,Computer Hardware Development,47.8TSalaries,1.4TJobs,3.9★,1.1LReviews
+1,Accenture,37 office locations,10000+ Employees,Business Consulting,27.4TSalaries,35.5TJobs,4.1★,1.3LReviews
+2,Infosys,34 office locations,10000+ Employees,Information Technology Support Services,30.9TSalaries,3.2TJobs,3.9★,87TReviews
+3,Amazon,65 office locations,10000+ Employees,Internet & Web Services,10.2TSalaries,33.8TJobs,4.3★,1.5LReviews
+4,Cognizant Technology Solutions,27 office locations,10000+ Employees,Information Technology Support Services,34.7TSalaries,5.7TJobs,3.9★,80.9TReviews
+5,Deloitte,31 office locations,10000+ Employees,Accounting & Tax,15.8TSalaries,79.8TJobs,4.1★,88TReviews
+6,IBM,37 office locations,10000+ Employees,Information Technology Support Services,8.4TSalaries,8.1TJobs,4.1★,97TReviews
+7,Capgemini,53 office locations,10000+ Employees,Enterprise Software & Network Solutions,28TSalaries,9.2TJobs,4.0★,61.7TReviews
+8,Wipro,38 office locations,10000+ Employees,Information Technology Support Services,20.7TSalaries,2.7TJobs,3.8★,49.3TReviews
+9,EY,"Headquarters in London, United Kingdom",10000+ Employees,Accounting & Tax,9.2TSalaries,55.4TJobs,3.9★,63.5TReviews
+10,HCLTech,26 office locations,10000+ Employees,Computer Hardware Development,11.8TSalaries,561Jobs,3.7★,37.1TReviews
+11,Oracle,44 office locations,10000+ Employees,Enterprise Software & Network Solutions,4.8TSalaries,4.6TJobs,3.9★,44.8TReviews
+12,PwC,49 office locations,1001 to 5000 Employees,Accounting & Tax,6.1TSalaries,39.5TJobs,3.9★,64.5TReviews
+13,Tech Mahindra,29 office locations,10000+ Employees,Information Technology Support Services,9.9TSalaries,711Jobs,3.6★,29.2TReviews
+14,Microsoft,60 office locations,10000+ Employees,Computer Hardware Development,4.3TSalaries,1.8TJobs,4.4★,43.9TReviews
+15,KPMG,25 office locations,10000+ Employees,Business Consulting,5.8TSalaries,32.4TJobs,3.8★,49.9TReviews
+16,Google,"Headquarters in Mountain View, CA",10000+ Employees,Internet & Web Services,3.5TSalaries,2.2TJobs,4.5★,37.2TReviews
+17,Teleperformance,37 office locations,5001 to 10000 Employees,Telecommunications Services,2.2TSalaries,2.8TJobs,4.6★,39.4TReviews
+18,Cisco Systems,25 office locations,10000+ Employees,Enterprise Software & Network Solutions,2.8TSalaries,1.4TJobs,4.4★,29.4TReviews
+19,Dell Technologies,25 office locations,10000+ Employees,Information Technology Support Services,2.9TSalaries,1.6TJobs,4.3★,30TReviews
+20,Wells Fargo,25 office locations,10000+ Employees,Banking & Lending,1.4TSalaries,11.5TJobs,3.7★,42.6TReviews
+21,BYJU'S,25 office locations,10000+ Employees,Primary & Secondary Schools,2.7TSalaries,7Jobs,3.5★,14.8TReviews
+22,DXC Technology,26 office locations,10000+ Employees,Information Technology Support Services,2.3TSalaries,1.7TJobs,3.6★,21.3TReviews
+23,Genpact,64 office locations,10000+ Employees,Information Technology Support Services,5.7TSalaries,6.8TJobs,4.0★,17.5TReviews
+24,LTI,27 office locations,10000+ Employees,Information Technology Support Services,4.9TSalaries,1.9TJobs,3.8★,11.4TReviews
+25,J.P. Morgan,25 office locations,10000+ Employees,Investment & Asset Management,4.1TSalaries,9Jobs,4.1★,22.6TReviews
+26,SAP,28 office locations,10000+ Employees,Enterprise Software & Network Solutions,1.7TSalaries,1.6TJobs,4.4★,26TReviews
+27,Qualcomm,34 office locations,10000+ Employees,Computer Hardware Development,1.6TSalaries,5Jobs,4.1★,9.1TReviews
+28,Concentrix,30 office locations,10000+ Employees,Information Technology Support Services,1.8TSalaries,2.6TJobs,4.1★,23.4TReviews
+29,Citi,26 office locations,10000+ Employees,Investment & Asset Management,1.7TSalaries,13.5TJobs,3.9★,28.6TReviews
+30,Intel Corporation,32 office locations,10000+ Employees,Computer Hardware Development,1TSalaries,311Jobs,4.3★,25.9TReviews
+31,HSBC,8 office locations,10000+ Employees,Banking & Lending,2.4TSalaries,2.8TJobs,3.8★,24.6TReviews
+32,Walmart,4 office locations,1001 to 5000 Employees,General Merchandise & Superstores,535Salaries,11.5TJobs,3.3★,1.1LReviews
+33,Bank of America,25 office locations,10000+ Employees,Banking & Lending,1.2TSalaries,6.2TJobs,4.0★,35.9TReviews
+34,ABC,7 office locations,10000+ Employees,Broadcast Media,5TSalaries,25Jobs,3.9★,12.8TReviews
+35,Mindtree,31 office locations,10000+ Employees,Information Technology Support Services,4.3TSalaries,2.4TJobs,4.0★,10.3TReviews
+36,Target,5 office locations,1001 to 5000 Employees,General Merchandise & Superstores,545Salaries,13.8TJobs,4.4★,69.2TReviews
+37,Goldman Sachs,25 office locations,10000+ Employees,Investment & Asset Management,2.5TSalaries,1.1TJobs,4.0★,15TReviews
+38,Honeywell,25 office locations,10000+ Employees,Computer Hardware Development,1.6TSalaries,3.8TJobs,4.0★,18TReviews
+39,CGI,46 office locations,10000+ Employees,Business Consulting,2.7TSalaries,4.9TJobs,3.9★,14.5TReviews
+40,Ericsson-Worldwide,26 office locations,10000+ Employees,Telecommunications Services,1.5TSalaries,2TJobs,4.2★,16.8TReviews
+41,Barclays,27 office locations,10000+ Employees,Banking & Lending,1.5TSalaries,3.8TJobs,4.0★,16.2TReviews
+42,Siemens,36 office locations,10000+ Employees,Electronics Manufacturing,1.7TSalaries,13.9TJobs,4.1★,18.5TReviews
+43,ICICI Bank,25 office locations,10000+ Employees,Banking & Lending,2.6TSalaries,11Jobs,3.7★,10.5TReviews
+44,Verizon,23 office locations,10000+ Employees,Telecommunications Services,921Salaries,8.6TJobs,3.9★,30.4TReviews
+45,Mphasis,33 office locations,10000+ Employees,Information Technology Support Services,2.7TSalaries,43Jobs,3.7★,7.8TReviews
+46,ADP,18 office locations,10000+ Employees,Enterprise Software & Network Solutions,901Salaries,1.9TJobs,4.0★,17.1TReviews
+47,Nokia,29 office locations,10000+ Employees,Telecommunications Services,1.1TSalaries,2.1TJobs,4.1★,16.4TReviews
+48,Hewlett Packard Enterprise | HPE,25 office locations,10000+ Employees,Information Technology Support Services,957Salaries,1.7TJobs,4.3★,15.8TReviews
+49,NTT DATA,57 office locations,10000+ Employees,Information Technology Support Services,1.6TSalaries,7.2TJobs,3.9★,11.5TReviews
+50,American Express,22 office locations,10000+ Employees,Financial Transaction Processing,1.6TSalaries,988Jobs,4.3★,14.4TReviews
+51,Capgemini Engineering,14 office locations,10000+ Employees,Information Technology Support Services,2.6TSalaries,1.5TJobs,3.7★,10.6TReviews
+52,Amdocs,39 office locations,10000+ Employees,Enterprise Software & Network Solutions,2.6TSalaries,698Jobs,4.0★,9.8TReviews
+53,Morgan Stanley,71 office locations,10000+ Employees,Investment & Asset Management,1.7TSalaries,2TJobs,4.0★,15.6TReviews
+54,Freelancer,16 office locations,501 to 1000 Employees,HR Consulting,1.4TSalaries,39Jobs,4.2★,12.4TReviews
+55,Publicis Sapient,53 office locations,10000+ Employees,Business Consulting,1.6TSalaries,544Jobs,3.9★,8.3TReviews
+56,Robert Bosch,33 office locations,10000+ Employees,Computer Hardware Development,2.3TSalaries,647Jobs,4.2★,13.6TReviews
+57,Salesforce,58 office locations,10000+ Employees,Enterprise Software & Network Solutions,487Salaries,971Jobs,4.5★,14.3TReviews
+58,Thomson Reuters,17 office locations,10000+ Employees,Enterprise Software & Network Solutions,864Salaries,566Jobs,4.3★,13.9TReviews
+59,ZS Associates,37 office locations,10000+ Employees,Business Consulting,1.9TSalaries,314Jobs,3.9★,6TReviews
+60,JPMorgan Chase & Co,"Headquarters in New York, NY",10000+ Employees,Banking & Lending,1.2TSalaries,152Jobs,4.0★,18.7TReviews
+61,Vodafone,29 office locations,10000+ Employees,"Cable, Internet & Telephone Providers",899Salaries,6.6TJobs,4.0★,14.5TReviews
+62,Cerner,25 office locations,10000+ Employees,Computer Hardware Development,1.4TSalaries,128Jobs,3.6★,9.2TReviews
+63,IQVIA,2 office locations,10000+ Employees,Biotech & Pharmaceuticals,1.2TSalaries,3.4TJobs,4.0★,11.1TReviews
+64,GE,37 office locations,10000+ Employees,Machinery Manufacturing,637Salaries,572Jobs,3.9★,17TReviews
+65,UST,50 office locations,10000+ Employees,Information Technology Support Services,1.6TSalaries,2.5TJobs,4.0★,6.6TReviews
+66,McDonald's,110 N Carpenter Street ,10000+ Employees,Restaurants & Cafes,272Salaries,1LJobs,3.5★,1LReviews
+67,Atos-Syntel,29 office locations,10000+ Employees,Information Technology Support Services,3.3TSalaries,15Jobs,3.6★,7TReviews
+68,UnitedHealth Group,25 office locations,10000+ Employees,Healthcare Services & Hospitals,727Salaries,3.8TJobs,3.6★,15.2TReviews
+69,Fidelity Investments,15 office locations,10000+ Employees,Investment & Asset Management,958Salaries,2.3TJobs,4.2★,13.2TReviews
+70,FIS,62 office locations,10000+ Employees,Financial Transaction Processing,1.5TSalaries,1.4TJobs,3.8★,9.6TReviews
+71,Larsen & Toubro,26 office locations,10000+ Employees,Construction,2.1TSalaries,17Jobs,3.7★,6.6TReviews
+72,Adobe,27 office locations,10000+ Employees,Computer Hardware Development,955Salaries,848Jobs,4.4★,8.1TReviews
+73,VMware,53 office locations,10000+ Employees,Enterprise Software & Network Solutions,537Salaries,2.9TJobs,4.4★,9.8TReviews
+74,Atos,40 office locations,10000+ Employees,Information Technology Support Services,1.7TSalaries,2.6TJobs,3.7★,10.9TReviews
+75,Virtusa,28 office locations,10000+ Employees,Information Technology Support Services,2.6TSalaries,1.8TJobs,3.7★,7.1TReviews
+76,HDFC Bank,6 office locations,10000+ Employees,Banking & Lending,2.4TSalaries,42Jobs,3.6★,6.9TReviews
+77,Apple,25 office locations,10000+ Employees,Computer Hardware Development,400Salaries,7.1TJobs,4.2★,34TReviews
+78,Deutsche Bank,25 office locations,10000+ Employees,Banking & Lending,1.5TSalaries,5.9TJobs,3.9★,10.9TReviews
+79,Tata Consultancy Services (North America),31 office locations,10000+ Employees,Information Technology Support Services,2.2TSalaries,1.4TJobs,3.8★,8TReviews
+80,Samsung Electronics,21 office locations,10000+ Employees,Electronics Manufacturing,1.5TSalaries,52Jobs,3.8★,12.5TReviews
+81,Schneider Electric,25 office locations,10000+ Employees,Energy & Utilities,807Salaries,3.1TJobs,4.2★,12.1TReviews
+82,Philips,25 office locations,10000+ Employees,Healthcare Services & Hospitals,719Salaries,970Jobs,4.1★,9.9TReviews
+83,BNY Mellon,26 office locations,10000+ Employees,Investment & Asset Management,913Salaries,5.8TJobs,3.7★,10TReviews
+84,NatWest Group,33 office locations,10000+ Employees,Banking & Lending,1.5TSalaries,1.1TJobs,3.9★,8.1TReviews
+85,Lowe's Home Improvement,2 office locations,1001 to 5000 Employees,Home Furniture & Housewares Stores,524Salaries,10.2TJobs,4.2★,36TReviews
+86,Credit Suisse,25 office locations,10000+ Employees,Investment & Asset Management,581Salaries,1.2TJobs,3.8★,10TReviews
+87,Zensar Technologies,20 office locations,5001 to 10000 Employees,Information Technology Support Services,1.4TSalaries,217Jobs,3.9★,3.8TReviews
+88,Société Générale,29 office locations,10000+ Employees,Investment & Asset Management,1.1TSalaries,3.3TJobs,3.7★,9.6TReviews
+89,Sutherland,30 office locations,10000+ Employees,HR Consulting,1.2TSalaries,2.2TJobs,3.9★,7.7TReviews
+90,Reliance Industries,25 office locations,10000+ Employees,Energy & Utilities,2TSalaries,10Jobs,3.9★,5.7TReviews
+91,Axis Bank,25 office locations,10000+ Employees,Banking & Lending,2.2TSalaries,104Jobs,3.8★,5.8TReviews
+92,McKinsey & Company,25 office locations,10000+ Employees,Business Consulting,464Salaries,1.5TJobs,4.4★,8.6TReviews
+93,CSC,4 office locations,10000+ Employees,Information Technology Support Services,798Salaries,7Jobs,3.7★,6.7TReviews
+94,Hexaware Technologies,15 office locations,10000+ Employees,Information Technology Support Services,1.8TSalaries,331Jobs,3.8★,4.4TReviews
+95,Persistent Systems,2 office locations,10000+ Employees,Information Technology Support Services,2.6TSalaries,115Jobs,4.1★,5.1TReviews
+96,Unilever,25 office locations,10000+ Employees,Consumer Product Manufacturing,426Salaries,1.4TJobs,4.1★,13.3TReviews
+97,First Student,26 office locations,10000+ Employees,Taxi & Car Services,2.4TSalaries,1.8TJobs,4.0★,3.8TReviews
+98,BNP Paribas,26 office locations,10000+ Employees,Banking & Lending,920Salaries,7.2TJobs,3.8★,11.8TReviews
+99,TCS,"Headquarters in Leingarten, Germany",Unknown,N/A,2.7TSalaries,--Jobs,4.0★,5.2TReviews
+100,UBS,19 office locations,10000+ Employees,Investment & Asset Management,421Salaries,3TJobs,3.9★,11.8TReviews
+101,AT&T,25 office locations,10000+ Employees,Telecommunications Services,136Salaries,2.7TJobs,3.7★,36.4TReviews
+102,Jio,25 office locations,5001 to 10000 Employees,"Cable, Internet & Telephone Providers",2.1TSalaries,4Jobs,3.8★,4.8TReviews
+103,Huawei Technologies,28 office locations,10000+ Employees,Telecommunications Services,765Salaries,10Jobs,3.8★,12TReviews
+104,Flipkart,10 office locations,10000+ Employees,Internet & Web Services,2.2TSalaries,129Jobs,4.2★,4.4TReviews
+105,Fiserv,14 office locations,10000+ Employees,Financial Transaction Processing,789Salaries,532Jobs,3.7★,7.6TReviews
+106,NVIDIA,23 office locations,10000+ Employees,Computer Hardware Development,343Salaries,803Jobs,4.5★,4.6TReviews
+107,Shell,30 office locations,10000+ Employees,Energy & Utilities,624Salaries,1.9TJobs,4.1★,11.7TReviews
+108,TEKsystems,38 office locations,1001 to 5000 Employees,HR Consulting,593Salaries,1.7TJobs,4.4★,9.2TReviews
+109,GlobalLogic,40 office locations,10000+ Employees,Information Technology Support Services,2.2TSalaries,986Jobs,4.1★,5.5TReviews
+110,Mu Sigma,3 office locations,1001 to 5000 Employees,Business Consulting,793Salaries,--Jobs,3.5★,3.9TReviews
+111,BT,33 office locations,10000+ Employees,Telecommunications Services,610Salaries,432Jobs,4.1★,8.1TReviews
+112,EXL Service,33 office locations,10000+ Employees,Business Consulting,2.2TSalaries,3.3TJobs,3.7★,4.8TReviews
+113,Ford Motor Company,26 office locations,10000+ Employees,Transportation Equipment Manufacturing,606Salaries,3.1TJobs,4.1★,11.4TReviews
+114,WhiteHat Jr,"Headquarters in Mumbai, India",5001 to 10000 Employees,Education Support & Training Services,2.4TSalaries,3Jobs,3.8★,5.3TReviews
+115,OYO,25 office locations,5001 to 10000 Employees,Hotels & Resorts,1.5TSalaries,22Jobs,3.5★,4.8TReviews
+116,Standard Chartered Bank,"Headquarters in London, United Kingdom",10000+ Employees,Investment & Asset Management,981Salaries,7TJobs,3.9★,7.6TReviews
+117,L&T Technology Services,25 office locations,10000+ Employees,Information Technology Support Services,2TSalaries,2.5TJobs,3.5★,4.7TReviews
+118,HP Inc.,26 office locations,10000+ Employees,Computer Hardware Development,540Salaries,636Jobs,4.2★,8.1TReviews
+119,Bharti Airtel,25 office locations,10000+ Employees,Telecommunications Services,1.6TSalaries,4TJobs,4.3★,5.1TReviews
+120,Zoho,"4141 Hacienda Dr Pleasanton, California, 94588-8566, United States",201 to 500 Employees,Computer Hardware Development,804Salaries,14Jobs,4.5★,3.3TReviews
+121,Nagarro,49 office locations,10000+ Employees,Information Technology Support Services,1.3TSalaries,75Jobs,4.2★,3.6TReviews
+122,Novartis,31 office locations,10000+ Employees,Biotech & Pharmaceuticals,685Salaries,1.9TJobs,4.1★,8.3TReviews
+123,Optum,8 office locations,501 to 1000 Employees,Healthcare Services & Hospitals,1.1TSalaries,6.5TJobs,3.7★,6.3TReviews
+124,Anonymous Content,24 office locations,51 to 200 Employees,Film Production,955Salaries,3Jobs,3.9★,5TReviews
+125,PayPal,18 office locations,10000+ Employees,Internet & Web Services,473Salaries,2TJobs,4.2★,7TReviews
+126,Coforge,9 office locations,10000+ Employees,Enterprise Software & Network Solutions,1.1TSalaries,149Jobs,4.1★,5.1TReviews
+127,Robert Bosch India,"Stuttgart, 01",10000+ Employees,Machinery Manufacturing,2.2TSalaries,1Jobs,4.1★,4.1TReviews
+128,ABB,19 office locations,10000+ Employees,Electronics Manufacturing,582Salaries,3.7TJobs,4.1★,8TReviews
+129,TaskUs,28 office locations,10000+ Employees,Information Technology Support Services,194Salaries,1TJobs,4.7★,12.8TReviews
+130,PepsiCo,25 office locations,10000+ Employees,Food & Beverage Manufacturing,216Salaries,6.4TJobs,3.9★,16.9TReviews
+131,Sopra Steria,26 office locations,10000+ Employees,Information Technology Support Services,915Salaries,1.5TJobs,3.8★,5.9TReviews
+132,State Street,26 office locations,10000+ Employees,Investment & Asset Management,804Salaries,2.7TJobs,3.7★,8.4TReviews
+133,S&P Global,25 office locations,10000+ Employees,Research & Development,708Salaries,2.4TJobs,4.1★,5.6TReviews
+134,SelfEmployed.com,"Headquarters in Dublin, OH",1 to 50 Employees,N/A,474Salaries,--Jobs,4.4★,6.9TReviews
+135,WNS,4 office locations,10000+ Employees,HR Consulting,1.7TSalaries,145Jobs,3.5★,4.5TReviews
+136,Kotak Mahindra Bank,26 office locations,10000+ Employees,Banking & Lending,1.4TSalaries,4.3TJobs,3.7★,4.3TReviews
+137,HARMAN,27 office locations,10000+ Employees,Consumer Product Manufacturing,1.1TSalaries,1.3TJobs,3.9★,4.4TReviews
+138,Fujitsu,51 office locations,10000+ Employees,Enterprise Software & Network Solutions,151Salaries,3.6TJobs,3.7★,5.6TReviews
+139,ITC Infotech,15 office locations,5001 to 10000 Employees,Information Technology Support Services,853Salaries,156Jobs,4.0★,4.1TReviews
+140,Intuit,18 office locations,10000+ Employees,Software Development,365Salaries,4.3TJobs,4.5★,9TReviews
+141,Aon,32 office locations,10000+ Employees,Insurance Agencies & Brokerages,449Salaries,2.4TJobs,3.9★,6.5TReviews
+142,EPAM Systems,75 office locations,10000+ Employees,Information Technology Support Services,574Salaries,3.7TJobs,4.3★,6.8TReviews
+143,Infosys BPM,4 office locations,10000+ Employees,HR Consulting,864Salaries,3.2TJobs,3.6★,4.5TReviews
+144,Hinduja Global Solutions,20 office locations,10000+ Employees,Office Supply & Copy Stores,573Salaries,55Jobs,3.5★,4.2TReviews
+145,Birlasoft,27 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,1.1TSalaries,288Jobs,3.5★,2.7TReviews
+146,KPIT Technologies,21 office locations,5001 to 10000 Employees,Information Technology Support Services,1.3TSalaries,145Jobs,3.7★,3.5TReviews
+147,DONE by NONE,"New York, NY",1 to 50 Employees,Computer Hardware Development,1.3TSalaries,--Jobs,4.0★,3.6TReviews
+148,Boeing,25 office locations,10000+ Employees,Aerospace & Defence,260Salaries,2.3TJobs,3.8★,14TReviews
+149,Conduent,24 office locations,10000+ Employees,Information Technology Support Services,622Salaries,1.1TJobs,3.1★,7.6TReviews
+150,Nielsen,47 office locations,10000+ Employees,Enterprise Software & Network Solutions,381Salaries,581Jobs,3.8★,8.3TReviews
+151,Nestlé,35 office locations,10000+ Employees,Food & Beverage Manufacturing,222Salaries,1.4TJobs,4.1★,12.3TReviews
+152,Cyient,18 office locations,10000+ Employees,Information Technology Support Services,603Salaries,758Jobs,3.5★,2.9TReviews
+153,Paytm,5 office locations,10000+ Employees,Internet & Web Services,2.1TSalaries,197Jobs,3.7★,3.4TReviews
+154,Meta,21 office locations,10000+ Employees,Internet & Web Services,189Salaries,1.1TJobs,4.2★,12.2TReviews
+155,Self Opportunity,4 office locations,51 to 200 Employees,Advertising & Public Relations,717Salaries,--Jobs,4.3★,4.6TReviews
+156,Johnson & Johnson,25 office locations,10000+ Employees,Biotech & Pharmaceuticals,277Salaries,3.1TJobs,4.2★,13.5TReviews
+157,Randstad,26 office locations,501 to 1000 Employees,HR Consulting,297Salaries,1.6LJobs,3.9★,7.7TReviews
+158,JLL,36 office locations,10000+ Employees,Real Estate,401Salaries,4.5TJobs,3.9★,8.1TReviews
+159,CBRE,25 office locations,10000+ Employees,Real Estate,415Salaries,5.1TJobs,3.9★,9.4TReviews
+160,Boston Consulting Group,86 office locations,10000+ Employees,Business Consulting,743Salaries,3.9TJobs,4.2★,6.7TReviews
+161,Cognizant,"Headquarters in New Delhi, India",1 to 50 Employees,N/A,1.9TSalaries,--Jobs,3.8★,3.6TReviews
+162,Schlumberger,37 office locations,10000+ Employees,Energy & Utilities,232Salaries,521Jobs,3.9★,10.5TReviews
+163,Tesco,2 office locations,10000+ Employees,Grocery Stores,209Salaries,3.3TJobs,3.7★,21.5TReviews
+164,Collabera,34 office locations,10000+ Employees,Information Technology Support Services,447Salaries,57Jobs,3.7★,4TReviews
+165,Samsung R&D Institute India - Bangalore," #2870, Phoenix Building, 4th Floor Bagmane Constellation Business Park, Outer Ring Rd, Doddanekundi, Marathahalli ",1001 to 5000 Employees,Research & Development,2TSalaries,1Jobs,3.8★,3.4TReviews
+166,Procter & Gamble,36 office locations,10000+ Employees,Consumer Product Manufacturing,233Salaries,1.6TJobs,4.2★,14.3TReviews
+167,Starbucks,8 office locations,10000+ Employees,Restaurants & Cafes,143Salaries,25.6TJobs,3.8★,56TReviews
+168,Anonymous,"Headquarters in Bangkok, Thailand",1 to 50 Employees,N/A,924Salaries,4Jobs,3.8★,3.2TReviews
+169,Sitel Group,27 office locations,10000+ Employees,Telecommunications Services,213Salaries,1.2TJobs,3.8★,11.5TReviews
+170,Gartner,24 office locations,10000+ Employees,Business Consulting,411Salaries,1TJobs,4.0★,6.3TReviews
+171,GE Healthcare,25 office locations,5001 to 10000 Employees,Healthcare Services & Hospitals,440Salaries,1TJobs,4.3★,6.2TReviews
+172,Johnson Controls,45 office locations,10000+ Employees,Machinery Manufacturing,305Salaries,4.7TJobs,3.6★,7.7TReviews
+173,Cummins,25 office locations,10000+ Employees,Transportation Equipment Manufacturing,268Salaries,1.5TJobs,4.1★,6.9TReviews
+174,Informatica,29 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,645Salaries,173Jobs,4.2★,2.6TReviews
+175,Nones,"Headquarters in Berlin, Germany",Unknown,N/A,1.1TSalaries,2Jobs,3.9★,2.2TReviews
+176,NortonLifeLock,5 office locations,1001 to 5000 Employees,Computer Hardware Development,525Salaries,14Jobs,3.9★,5TReviews
+177,Caterpillar,34 office locations,10000+ Employees,Machinery Manufacturing,257Salaries,1.2TJobs,4.0★,7TReviews
+178,Tata Motors,"Coventry, ENG",10000+ Employees,Transportation Equipment Manufacturing,1.4TSalaries,1Jobs,4.1★,3.4TReviews
+179,eClerx,13 office locations,10000+ Employees,Business Consulting,1.8TSalaries,506Jobs,3.6★,3.3TReviews
+180,Expedia Group,31 office locations,10000+ Employees,Internet & Web Services,256Salaries,754Jobs,4.1★,6.2TReviews
+181,GSK,107 office locations,10000+ Employees,Biotech & Pharmaceuticals,165Salaries,2.6TJobs,4.0★,11TReviews
+182,Cybage Software,18 office locations,5001 to 10000 Employees,Information Technology Support Services,1.5TSalaries,42Jobs,3.9★,3.3TReviews
+183,Texas Instruments,25 office locations,10000+ Employees,Electronics Manufacturing,231Salaries,640Jobs,4.3★,4.7TReviews
+184,Visa Inc.,29 office locations,10000+ Employees,Information Technology Support Services,554Salaries,876Jobs,4.2★,5.4TReviews
+185,Kantar,15 office locations,10000+ Employees,Research & Development,463Salaries,758Jobs,3.7★,4.9TReviews
+186,NCR,34 office locations,10000+ Employees,Enterprise Software & Network Solutions,407Salaries,680Jobs,3.6★,6.4TReviews
+187,Capita,25 office locations,10000+ Employees,Business Consulting,320Salaries,733Jobs,3.2★,6.1TReviews
+188,Bain & Company,65 office locations,10000+ Employees,Business Consulting,856Salaries,41Jobs,4.5★,5.9TReviews
+189,Northern Trust,30 office locations,10000+ Employees,Banking & Lending,1.1TSalaries,526Jobs,3.9★,4.3TReviews
+190,Eaton,36 office locations,10000+ Employees,Electronics Manufacturing,502Salaries,3.7TJobs,4.1★,5.9TReviews
+191,Mastercard,25 office locations,10000+ Employees,Financial Transaction Processing,609Salaries,2TJobs,4.3★,5TReviews
+192,FactSet,17 office locations,10000+ Employees,Investment & Asset Management,384Salaries,527Jobs,4.1★,3.5TReviews
+193,Thoughtworks,39 office locations,5001 to 10000 Employees,Information Technology Support Services,583Salaries,201Jobs,4.5★,3.1TReviews
+194,Continental,36 office locations,5001 to 10000 Employees,Consumer Product Manufacturing,339Salaries,5.4TJobs,4.1★,7.2TReviews
+195,Unisys,33 office locations,10000+ Employees,Information Technology Support Services,484Salaries,1.2TJobs,3.7★,4.7TReviews
+196,NetApp,25 office locations,10000+ Employees,Enterprise Software & Network Solutions,266Salaries,383Jobs,4.5★,4.6TReviews
+197,Grant Thornton,63 office locations,5001 to 10000 Employees,Accounting & Tax,738Salaries,2.3TJobs,3.9★,6.1TReviews
+198,IGATE,17 office locations,10000+ Employees,Information Technology Support Services,1.1TSalaries,9.2TJobs,3.8★,2.8TReviews
+199,Mahindra,25 office locations,10000+ Employees,Transportation Equipment Manufacturing,1TSalaries,460Jobs,4.0★,3.2TReviews
+200,MAERSK,23 office locations,10000+ Employees,Marine Transportation,559Salaries,3.6TJobs,4.2★,4.6TReviews
+201,DBS Bank,15 office locations,10000+ Employees,Banking & Lending,548Salaries,2.3TJobs,4.0★,5.9TReviews
+202,John Deere,27 office locations,10000+ Employees,Machinery Manufacturing,423Salaries,1TJobs,4.1★,5.4TReviews
+203,Abbott,34 office locations,10000+ Employees,Healthcare Services & Hospitals,176Salaries,2.6TJobs,3.8★,8.3TReviews
+204,Mercer,36 office locations,10000+ Employees,Business Consulting,359Salaries,743Jobs,3.9★,5.3TReviews
+205,ServiceNow,22 office locations,10000+ Employees,Enterprise Software & Network Solutions,364Salaries,890Jobs,4.5★,3.2TReviews
+206,Emerson,26 office locations,10000+ Employees,Electronics Manufacturing,366Salaries,2.3TJobs,3.8★,6TReviews
+207,BlackRock,21 office locations,10000+ Employees,Investment & Asset Management,673Salaries,133Jobs,4.1★,4.8TReviews
+208,Sears,"3333 Beverly Road, Hoffman Estates, IL 60179 ",10000+ Employees,"Department, Clothing & Shoe Stores",113Salaries,189Jobs,3.3★,14.4TReviews
+209,Citrix,22 office locations,5001 to 10000 Employees,Computer Hardware Development,304Salaries,1Jobs,3.8★,4.3TReviews
+210,XYZ,"Santa Monica, CA",1 to 50 Employees,Computer Hardware Development,1.5TSalaries,7Jobs,3.8★,2.5TReviews
+211,UPS,26 office locations,10000+ Employees,Taxi & Car Services,62Salaries,22.9TJobs,3.5★,29.5TReviews
+212,State Bank of India,25 office locations,10000+ Employees,Banking & Lending,1TSalaries,28Jobs,3.8★,3TReviews
+213,Juniper Networks,31 office locations,5001 to 10000 Employees,Telecommunications Services,319Salaries,634Jobs,4.3★,3.8TReviews
+214,Synopsys,25 office locations,10000+ Employees,Computer Hardware Development,183Salaries,1.4TJobs,4.1★,3.1TReviews
+215,Amadeus,24 office locations,10000+ Employees,Information Technology Support Services,688Salaries,456Jobs,3.9★,4.1TReviews
+216,General Motors (GM),25 office locations,10000+ Employees,Transportation Equipment Manufacturing,150Salaries,989Jobs,4.0★,10.7TReviews
+217,WTW,25 office locations,10000+ Employees,Business Consulting,327Salaries,1.7TJobs,3.9★,6.4TReviews
+218,Decathlon,9 office locations,10000+ Employees,Sporting Goods Stores,289Salaries,2.3TJobs,4.0★,6.4TReviews
+219,LinkedIn,12 office locations,10000+ Employees,Internet & Web Services,260Salaries,69Jobs,4.5★,5.8TReviews
+220,Lumen,20 office locations,10000+ Employees,Enterprise Software & Network Solutions,367Salaries,1.2TJobs,3.9★,6.2TReviews
+221,Capital One,32 office locations,10000+ Employees,Banking & Lending,167Salaries,1.6TJobs,4.2★,13.8TReviews
+222,IHS Markit,29 office locations,10000+ Employees,Business Consulting,473Salaries,3Jobs,4.1★,4.1TReviews
+223,AstraZeneca,35 office locations,10000+ Employees,Biotech & Pharmaceuticals,375Salaries,2.7TJobs,4.2★,6.1TReviews
+224,Evalueserve,5 office locations,1001 to 5000 Employees,Business Consulting,1.1TSalaries,22Jobs,4.0★,3TReviews
+225,Allianz,33 office locations,10000+ Employees,Investment & Asset Management,324Salaries,2.5TJobs,4.0★,5.6TReviews
+226,ANZ,28 office locations,5001 to 10000 Employees,Banking & Lending,516Salaries,262Jobs,4.1★,4.4TReviews
+227,ICICI Prudential Life Insurance,"Headquarters in Mumbai, India",10000+ Employees,Insurance Carriers,645Salaries,9Jobs,4.4★,2.9TReviews
+228,Tata Communications,26 office locations,5001 to 10000 Employees,"Cable, Internet & Telephone Providers",872Salaries,852Jobs,4.1★,3TReviews
+229,Labcorp,38 office locations,10000+ Employees,Healthcare Services & Hospitals,59Salaries,8.2TJobs,3.7★,8.2TReviews
+230,OpenText,25 office locations,10000+ Employees,Enterprise Software & Network Solutions,664Salaries,605Jobs,3.7★,3.6TReviews
+231,ALSTOM,34 office locations,10000+ Employees,Rail Transportation,317Salaries,4.3TJobs,3.8★,4TReviews
+232,Thermo Fisher Scientific,35 office locations,10000+ Employees,Biotech & Pharmaceuticals,144Salaries,8.7TJobs,3.8★,8TReviews
+233,Xerox,38 office locations,10000+ Employees,Information Technology Support Services,166Salaries,590Jobs,3.3★,8.7TReviews
+234,ExxonMobil,25 office locations,10000+ Employees,Energy & Utilities,134Salaries,1.2TJobs,3.5★,8.6TReviews
+235,MetLife,26 office locations,10000+ Employees,Insurance Agencies & Brokerages,304Salaries,722Jobs,3.9★,6.2TReviews
+236,Comcast,29 office locations,10000+ Employees,Telecommunications Services,48Salaries,2.8TJobs,3.9★,14.5TReviews
+237,Zomato,24 office locations,1001 to 5000 Employees,Internet & Web Services,1.3TSalaries,1Jobs,4.0★,2.3TReviews
+238,Adecco,28 office locations,201 to 500 Employees,"Staffing, Recruitment & Subcontracting",134Salaries,1.4LJobs,3.7★,7.9TReviews
+239,[24]7.ai,8 office locations,10000+ Employees,Information Technology Support Services,418Salaries,24Jobs,4.1★,2.9TReviews
+240,Broadcom,37 office locations,10000+ Employees,Electronics Manufacturing,183Salaries,209Jobs,3.6★,3.8TReviews
+241,UKG,17 office locations,10000+ Employees,Enterprise Software & Network Solutions,175Salaries,357Jobs,4.0★,4.9TReviews
+242,TTEC,62 office locations,10000+ Employees,HR Consulting,136Salaries,952Jobs,3.6★,8.4TReviews
+243,iEnergizer,"Headquarters in Austin, TX",5001 to 10000 Employees,Advertising & Public Relations,638Salaries,--Jobs,4.5★,3.2TReviews
+244,Globant,20 office locations,10000+ Employees,Software Development,250Salaries,308Jobs,4.3★,5.9TReviews
+245,TATA ELXSI,10 office locations,5001 to 10000 Employees,Information Technology Support Services,1.2TSalaries,284Jobs,4.0★,2.3TReviews
+246,HERE Technologies,18 office locations,5001 to 10000 Employees,Software Development,239Salaries,82Jobs,3.7★,2.9TReviews
+247,Western Digital,24 office locations,10000+ Employees,Computer Hardware Development,240Salaries,568Jobs,3.8★,3.5TReviews
+248,ValueLabs,22 office locations,5001 to 10000 Employees,Information Technology Support Services,909Salaries,38Jobs,4.2★,2.3TReviews
+249,CA Technologies,5 office locations,10000+ Employees,Computer Hardware Development,395Salaries,--Jobs,3.9★,3.7TReviews
+250,Orange,25 office locations,10000+ Employees,Telecommunications Services,151Salaries,997Jobs,4.0★,7.3TReviews
+251,ITC,21 office locations,10000+ Employees,Consumer Product Manufacturing,649Salaries,--Jobs,3.8★,2.3TReviews
+252,Medtronic,46 office locations,10000+ Employees,Health Care Products Manufacturing,95Salaries,1.9TJobs,4.0★,8.1TReviews
+253,Akamai,21 office locations,5001 to 10000 Employees,Information Technology Support Services,229Salaries,248Jobs,4.6★,2.6TReviews
+254,Parexel,81 office locations,10000+ Employees,Biotech & Pharmaceuticals,128Salaries,805Jobs,3.9★,2.9TReviews
+255,AIG,32 office locations,10000+ Employees,Insurance Carriers,143Salaries,998Jobs,3.6★,7.1TReviews
+256,AECOM,26 office locations,10000+ Employees,Architectural & Engineering Services,117Salaries,3TJobs,3.7★,8.7TReviews
+257,Ubisoft,32 office locations,10000+ Employees,Video Game Publishing,59Salaries,692Jobs,3.8★,4TReviews
+258,Hitachi Vantara,21 office locations,5001 to 10000 Employees,Information Technology Support Services,428Salaries,1.5TJobs,3.8★,3.1TReviews
+259,Swiggy,9 office locations,10000+ Employees,Internet & Web Services,817Salaries,20Jobs,4.2★,2TReviews
+260,Dassault Systemes,29 office locations,10000+ Employees,Software Development,341Salaries,1.2TJobs,4.0★,3.2TReviews
+261,Domino's,"Headquarters in Ann Arbor, MI",10000+ Employees,Restaurants & Cafes,100Salaries,42.9TJobs,3.5★,14.2TReviews
+262,Allstate,24 office locations,10000+ Employees,Insurance Agencies & Brokerages,167Salaries,1.7TJobs,3.5★,9.3TReviews
+263,BDO,26 office locations,1001 to 5000 Employees,Accounting & Tax,253Salaries,874Jobs,3.7★,6.5TReviews
+264,HighRadius,8 office locations,1001 to 5000 Employees,Computer Hardware Development,1TSalaries,76Jobs,3.9★,2.3TReviews
+265,Stryker,58 office locations,10000+ Employees,Health Care Products Manufacturing,161Salaries,1TJobs,4.1★,5.4TReviews
+266,Convergys,"Headquarters in Cincinnati, OH",10000+ Employees,HR Consulting,118Salaries,2.6TJobs,3.4★,5.6TReviews
+267,Yes Bank,24 office locations,10000+ Employees,Investment & Asset Management,873Salaries,--Jobs,3.9★,2.1TReviews
+268,Infor,25 office locations,10000+ Employees,Enterprise Software & Network Solutions,369Salaries,166Jobs,3.9★,4.1TReviews
+269,L'Oréal,31 office locations,10000+ Employees,Consumer Product Manufacturing,72Salaries,1.7TJobs,3.9★,10.5TReviews
+270,Anheuser-Busch InBev,27 office locations,10000+ Employees,Food & Beverage Manufacturing,292Salaries,810Jobs,3.8★,3.9TReviews
+271,Capgemini Invent,10 office locations,5001 to 10000 Employees,Business Consulting,629Salaries,629Jobs,4.3★,3.1TReviews
+272,CRISIL,10 office locations,1001 to 5000 Employees,Research & Development,747Salaries,11Jobs,3.9★,2.1TReviews
+273,Morningstar,13 office locations,5001 to 10000 Employees,Research & Development,437Salaries,503Jobs,4.2★,2.4TReviews
+274,Blue Yonder,32 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,440Salaries,183Jobs,4.2★,2.6TReviews
+275,Infogain,7 office locations,5001 to 10000 Employees,Information Technology Support Services,767Salaries,166Jobs,4.1★,2.4TReviews
+276,Epsilon,22 office locations,5001 to 10000 Employees,Advertising & Public Relations,229Salaries,185Jobs,4.0★,2.4TReviews
+277,Tata Steel,4 office locations,10000+ Employees,Metal & Mineral Manufacturing,787Salaries,456Jobs,4.1★,2.2TReviews
+278,Micron Technology,27 office locations,10000+ Employees,Computer Hardware Development,164Salaries,986Jobs,3.9★,5.2TReviews
+279,Maruti Suzuki,"Lucknow, UP",10000+ Employees,Transportation Equipment Manufacturing,966Salaries,210Jobs,3.9★,2TReviews
+280,Chegg,8 office locations,1001 to 5000 Employees,Internet & Web Services,133Salaries,101Jobs,4.2★,2.6TReviews
+281,EMPLOYERS,"Reno, NV",501 to 1000 Employees,Insurance Carriers,783Salaries,36Jobs,4.1★,253Reviews
+282,Fractal,12 office locations,1001 to 5000 Employees,Business Consulting,1TSalaries,75Jobs,4.1★,1.4TReviews
+283,Applied Materials,9 office locations,10000+ Employees,Electronics Manufacturing,204Salaries,1.6TJobs,4.0★,3.3TReviews
+284,Tietoevry,13 office locations,10000+ Employees,Information Technology Support Services,546Salaries,931Jobs,4.3★,2.5TReviews
+285,Movate,15 office locations,10000+ Employees,Information Technology Support Services,402Salaries,23Jobs,3.8★,2.1TReviews
+286,Allscripts,31 office locations,5001 to 10000 Employees,Computer Hardware Development,317Salaries,440Jobs,3.9★,2.7TReviews
+287,Siemens Healthineers,32 office locations,10000+ Employees,Healthcare Services & Hospitals,442Salaries,2TJobs,4.2★,3.5TReviews
+288,Tata Technologies,9 office locations,10000+ Employees,Research & Development,358Salaries,350Jobs,3.7★,2.1TReviews
+289,Red Hat,35 office locations,10000+ Employees,Enterprise Software & Network Solutions,283Salaries,962Jobs,4.4★,3.6TReviews
+290,YASH Technologies,37 office locations,5001 to 10000 Employees,Information Technology Support Services,619Salaries,316Jobs,3.8★,1.7TReviews
+291,Saint-Gobain,27 office locations,10000+ Employees,Machinery Manufacturing,287Salaries,2.9TJobs,4.0★,4TReviews
+292,Jacobs,22 office locations,10000+ Employees,Architectural & Engineering Services,94Salaries,4.9TJobs,4.0★,5.9TReviews
+293,ABCDEF,"Headquarters in Tampa, FL",51 to 200 Employees,N/A,1TSalaries,--Jobs,3.8★,1.7TReviews
+294,Pearson,36 office locations,10000+ Employees,Publishing,113Salaries,3.7TJobs,3.7★,7.3TReviews
+295,AMD,28 office locations,5001 to 10000 Employees,Computer Hardware Development,122Salaries,1.2TJobs,4.2★,3.7TReviews
+296,Whirlpool Corporation,22 office locations,10000+ Employees,Consumer Product Manufacturing,128Salaries,537Jobs,4.0★,5.5TReviews
+297,Nutanix,37 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,113Salaries,167Jobs,4.2★,1.8TReviews
+298,MathWorks,35 office locations,5001 to 10000 Employees,Software Development,266Salaries,740Jobs,4.4★,2.1TReviews
+299,Pfizer,33 office locations,10000+ Employees,Biotech & Pharmaceuticals,85Salaries,2.1TJobs,4.1★,7.6TReviews
+300,Newgen Software,6 office locations,1001 to 5000 Employees,Information Technology Support Services,1.3TSalaries,13Jobs,3.5★,1.8TReviews
+301,BA Continuum India,"Headquarters in Hyderābād, India",5001 to 10000 Employees,Information Technology Support Services,1.1TSalaries,--Jobs,4.2★,2TReviews
+302,Cargill,25 office locations,10000+ Employees,Crop Production,119Salaries,2.8TJobs,4.0★,6.2TReviews
+303,Sodexo,20 office locations,10000+ Employees,Catering & Food Service Contractors,71Salaries,12.2TJobs,3.6★,10TReviews
+304,R.R. Donnelley,35 office locations,1001 to 5000 Employees,Advertising & Public Relations,264Salaries,929Jobs,3.5★,3.3TReviews
+305,Other,"Headquarters in London, United Kingdom",1 to 50 Employees,"Civic, Welfare & Social Services",598Salaries,--Jobs,4.1★,1.7TReviews
+306,Ness Digital Engineering,16 office locations,5001 to 10000 Employees,Information Technology Support Services,419Salaries,495Jobs,4.3★,2TReviews
+307,Freshworks,12 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,558Salaries,86Jobs,4.3★,1.5TReviews
+308,Valeo,45 office locations,10000+ Employees,Transportation Equipment Manufacturing,224Salaries,3.2TJobs,3.8★,4.2TReviews
+309,Cadence Design Systems,23 office locations,5001 to 10000 Employees,Computer Hardware Development,176Salaries,999Jobs,4.4★,2.2TReviews
+310,Broadridge,43 office locations,10000+ Employees,Financial Transaction Processing,127Salaries,822Jobs,3.9★,2.3TReviews
+311,Ola,6 office locations,5001 to 10000 Employees,Internet & Web Services,840Salaries,27Jobs,3.1★,1.7TReviews
+312,CitiusTech,21 office locations,5001 to 10000 Employees,Information Technology Support Services,571Salaries,37Jobs,3.9★,1.6TReviews
+313,Firstsource Solutions,37 office locations,10000+ Employees,HR Consulting,476Salaries,17Jobs,3.5★,2.4TReviews
+314,Yahoo,13 office locations,5001 to 10000 Employees,Internet & Web Services,139Salaries,3Jobs,4.0★,5.6TReviews
+315,AXA,14 office locations,10000+ Employees,Insurance Carriers,175Salaries,2.1TJobs,4.0★,5.6TReviews
+316,H&M,"Headquarters in Stockholm, Sweden",10000+ Employees,"Department, Clothing & Shoe Stores",81Salaries,2.4TJobs,3.6★,13.4TReviews
+317,Micro Focus,25 office locations,10000+ Employees,Enterprise Software & Network Solutions,393Salaries,345Jobs,3.7★,2.5TReviews
+318,Teradata,43 office locations,10000+ Employees,Computer Hardware Development,243Salaries,255Jobs,4.1★,2.9TReviews
+319,Legato Health Technologies,3 office locations,10000+ Employees,Information Technology Support Services,847Salaries,94Jobs,4.0★,1.6TReviews
+320,GEP,20 office locations,1001 to 5000 Employees,Business Consulting,704Salaries,102Jobs,3.9★,1.9TReviews
+321,NTT Ltd.,54 office locations,10000+ Employees,Information Technology Support Services,139Salaries,1.3TJobs,3.9★,3.7TReviews
+322,BMC Software,24 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,392Salaries,240Jobs,4.1★,2.5TReviews
+323,Fresher,"Headquarters in Singapore, Singapore",1 to 50 Employees,N/A,1.1TSalaries,4Jobs,4.2★,498Reviews
+324,McAfee,30 office locations,1001 to 5000 Employees,Computer Hardware Development,341Salaries,133Jobs,4.1★,2.4TReviews
+325,The Home Depot,"2455 Paces Ferry Rd. SE, Atlanta, GA, 30339 ",10000+ Employees,Home Furniture & Housewares Stores,35Salaries,21.5TJobs,3.8★,41.9TReviews
+326,Nomura Holdings,2 office locations,10000+ Employees,Investment & Asset Management,599Salaries,336Jobs,4.0★,2.4TReviews
+327,Mercedes-Benz Research and Development India,2 office locations,5001 to 10000 Employees,Information Technology Support Services,739Salaries,3.1TJobs,3.9★,1.7TReviews
+328,TIAA,22 office locations,10000+ Employees,Investment & Asset Management,390Salaries,521Jobs,4.0★,3TReviews
+329,Groupon,20 office locations,5001 to 10000 Employees,Internet & Web Services,147Salaries,93Jobs,3.6★,4.1TReviews
+330,Temenos,13 office locations,5001 to 10000 Employees,Financial Transaction Processing,770Salaries,376Jobs,3.5★,1.9TReviews
+331,Altimetrik,18 office locations,1001 to 5000 Employees,Information Technology Support Services,502Salaries,5Jobs,4.2★,1.5TReviews
+332,General Mills,25 office locations,10000+ Employees,Food & Beverage Manufacturing,191Salaries,724Jobs,4.1★,3.8TReviews
+333,XYZ (Turkey),5 office locations,1 to 50 Employees,Film Production,766Salaries,--Jobs,3.9★,2.3TReviews
+334,IKEA,4 office locations,10000+ Employees,Home Furniture & Housewares Stores,63Salaries,3.2TJobs,3.9★,11TReviews
+335,Walt Disney Company,25 office locations,10000+ Employees,Film Production,82Salaries,1.1TJobs,3.9★,12.3TReviews
+336,Cvent,10 office locations,1001 to 5000 Employees,Software Development,336Salaries,145Jobs,3.8★,1.8TReviews
+337,Eurofins Scientific,77 office locations,10000+ Employees,Biotech & Pharmaceuticals,192Salaries,2.9TJobs,3.4★,3.9TReviews
+338,Happiest Minds Technologies,11 office locations,1001 to 5000 Employees,Information Technology Support Services,447Salaries,5Jobs,4.4★,1.6TReviews
+339,Sanofi,32 office locations,10000+ Employees,Biotech & Pharmaceuticals,76Salaries,2.3TJobs,3.9★,8.4TReviews
+340,Unacademy,"Ground Floor, Park Plaza,  Double Road, Indira Nagar  Opposite Cafe Terra ",1001 to 5000 Employees,Internet & Web Services,347Salaries,17Jobs,4.0★,1.8TReviews
+341,Airbus,25 office locations,10000+ Employees,Aerospace & Defence,163Salaries,4.5TJobs,4.0★,5.2TReviews
+342,upGrad,7 office locations,1001 to 5000 Employees,Colleges & Universities,403Salaries,14Jobs,3.7★,1.6TReviews
+343,Manhattan Associates,7 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,491Salaries,150Jobs,4.1★,1.6TReviews
+344,Hyatt,26 office locations,10000+ Employees,Hotels & Resorts,93Salaries,6.7TJobs,4.0★,6TReviews
+345,Arm,31 office locations,1001 to 5000 Employees,Computer Hardware Development,145Salaries,406Jobs,4.2★,2.1TReviews
+346,IGT Solutions,22 office locations,10000+ Employees,Information Technology Support Services,366Salaries,45Jobs,4.4★,2.5TReviews
+347,Avaya,11 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,249Salaries,33Jobs,3.7★,3.3TReviews
+348,Gallagher,25 office locations,10000+ Employees,Insurance Agencies & Brokerages,149Salaries,1.5TJobs,3.6★,3.1TReviews
+349,Protiviti,41 office locations,5001 to 10000 Employees,Business Consulting,307Salaries,557Jobs,4.1★,3.1TReviews
+350,Siemens Digital Industries Software,13 office locations,5001 to 10000 Employees,Computer Hardware Development,445Salaries,13.9TJobs,4.2★,2.4TReviews
+351,Snapdeal,"6th Floor, Capital Cyberscape Building, Sector 59, Golf Course Extn. Road, ",501 to 1000 Employees,Internet & Web Services,493Salaries,1Jobs,4.1★,1.6TReviews
+352,CDK Global,23 office locations,5001 to 10000 Employees,Computer Hardware Development,233Salaries,141Jobs,3.4★,2.9TReviews
+353,Pegasystems,21 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,217Salaries,71Jobs,3.9★,1.9TReviews
+354,Xoriant,22 office locations,1001 to 5000 Employees,Information Technology Support Services,807Salaries,11Jobs,4.0★,1.4TReviews
+355,Sprinklr,25 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,244Salaries,93Jobs,3.7★,1.6TReviews
+356,JustDial,25 office locations,10000+ Employees,Internet & Web Services,480Salaries,1Jobs,3.6★,1.8TReviews
+357,NIKE,25 office locations,10000+ Employees,Consumer Product Manufacturing,73Salaries,1.7TJobs,4.2★,12.6TReviews
+358,Walmart Global Tech,4 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,402Salaries,--Jobs,4.0★,1.5TReviews
+359,Mondelēz International,36 office locations,1001 to 5000 Employees,Food & Beverage Manufacturing,123Salaries,1.6TJobs,4.0★,6.1TReviews
+360,PTC,23 office locations,5001 to 10000 Employees,Computer Hardware Development,154Salaries,14Jobs,4.1★,2.3TReviews
+361,eClinicalWorks,2 office locations,1001 to 5000 Employees,Computer Hardware Development,180Salaries,18Jobs,4.0★,1.4TReviews
+362,Panasonic,26 office locations,1001 to 5000 Employees,Electronics Manufacturing,662Salaries,4TJobs,3.8★,3TReviews
+363,IndusInd Bank,4 office locations,10000+ Employees,Banking & Lending,372Salaries,--Jobs,3.4★,1.7TReviews
+364,J. C. Penney,5 office locations,10000+ Employees,"Department, Clothing & Shoe Stores",79Salaries,6.7TJobs,3.3★,11.6TReviews
+365,Netcracker Technology,8 office locations,10000+ Employees,"Cable, Internet & Telephone Providers",498Salaries,409Jobs,3.9★,1.8TReviews
+366,Bajaj Finance,18 office locations,10000+ Employees,Banking & Lending,810Salaries,1.2TJobs,3.8★,1.7TReviews
+367,MakeMyTrip,4 office locations,1001 to 5000 Employees,Internet & Web Services,506Salaries,--Jobs,4.2★,1.4TReviews
+368,Collins Aerospace,25 office locations,10000+ Employees,Aerospace & Defence,147Salaries,2.3TJobs,3.8★,3.1TReviews
+369,Manpower,41 office locations,10000+ Employees,HR Consulting,120Salaries,61.2TJobs,4.1★,7.9TReviews
+370,Accolite Digital,5 office locations,1001 to 5000 Employees,Information Technology Support Services,799Salaries,54Jobs,4.0★,1.1TReviews
+371,Tesco Bengaluru,"81 & 82, EPIP Area, Whitefield, Bengaluru 560066, Karnataka, India. ",5001 to 10000 Employees,Information Technology Support Services,638Salaries,1Jobs,4.0★,1.6TReviews
+372,Macquarie Group,22 office locations,10000+ Employees,Investment & Asset Management,255Salaries,1.4TJobs,4.1★,3.2TReviews
+373,Sabre,27 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,251Salaries,298Jobs,4.0★,2.5TReviews
+374,Veritas Technologies,14 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,473Salaries,161Jobs,4.2★,2.1TReviews
+375,Reckitt,29 office locations,10000+ Employees,Consumer Product Manufacturing,94Salaries,853Jobs,4.0★,4.4TReviews
+376,Quantiphi,6 office locations,1001 to 5000 Employees,Business Consulting,377Salaries,95Jobs,3.9★,942Reviews
+377,Nuance,11 office locations,5001 to 10000 Employees,Computer Hardware Development,149Salaries,197Jobs,4.1★,3.1TReviews
+378,athenahealth,10 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,199Salaries,44Jobs,4.4★,2TReviews
+379,TIBCO Software,33 office locations,1001 to 5000 Employees,Computer Hardware Development,286Salaries,40Jobs,4.0★,2TReviews
+380,Rakuten,19 office locations,10000+ Employees,Internet & Web Services,238Salaries,5.3TJobs,3.6★,2.4TReviews
+381,Thales,33 office locations,10000+ Employees,Aerospace & Defence,150Salaries,5.6TJobs,3.5★,5.6TReviews
+382,Baker Hughes,24 office locations,10000+ Employees,Energy & Utilities,152Salaries,1.7TJobs,3.8★,4.1TReviews
+383,NIIT,"Headquarters in Gurgaon, India",1001 to 5000 Employees,Education Support & Training Services,333Salaries,6Jobs,3.7★,1.6TReviews
+384,Bayer,36 office locations,10000+ Employees,Biotech & Pharmaceuticals,51Salaries,2.3TJobs,4.2★,7.3TReviews
+385,YES,"Headquarters in Holmdel, NJ",51 to 200 Employees,Computer Hardware Development,620Salaries,15Jobs,4.1★,827Reviews
+386,Yardi Systems,15 office locations,5001 to 10000 Employees,Software Development,166Salaries,139Jobs,4.1★,2.1TReviews
+387,Ameriprise,25 office locations,10000+ Employees,Investment & Asset Management,190Salaries,614Jobs,3.8★,2.9TReviews
+388,Vedantu,"Bangalore, KA",1001 to 5000 Employees,Education Support & Training Services,410Salaries,5Jobs,3.4★,1.6TReviews
+389,Wolters Kluwer,19 office locations,10000+ Employees,Enterprise Software & Network Solutions,134Salaries,1.3TJobs,3.8★,3.5TReviews
+390,Altisource,16 office locations,5001 to 10000 Employees,Investment & Asset Management,471Salaries,49Jobs,3.6★,1.7TReviews
+391,MAQ Software,3 office locations,501 to 1000 Employees,Information Technology Support Services,648Salaries,11Jobs,2.9★,1TReviews
+392,STMicroelectronics,24 office locations,10000+ Employees,Electronics Manufacturing,189Salaries,1.3TJobs,3.9★,2.6TReviews
+393,DHL Supply Chain,26 office locations,10000+ Employees,Shipping & Trucking,96Salaries,57Jobs,3.8★,7.6TReviews
+394,Electronic Arts,39 office locations,10000+ Employees,Video Game Publishing,65Salaries,750Jobs,4.0★,3.7TReviews
+395,H&R Block,One H&R Block Way ,10000+ Employees,Other Retail Shops,99Salaries,32.2TJobs,3.8★,6.2TReviews
+396,FedEx,36 office locations,10000+ Employees,Shipping & Trucking,63Salaries,1.2TJobs,3.7★,9.5TReviews
+397,The Coca-Cola Company,47 office locations,10000+ Employees,Food & Beverage Manufacturing,84Salaries,515Jobs,4.1★,8.6TReviews
+398,Extramarks,"Headquarters in Noida, India",1001 to 5000 Employees,Primary & Secondary Schools,316Salaries,--Jobs,3.9★,1.8TReviews
+399,Marlabs,12 office locations,1001 to 5000 Employees,Information Technology Support Services,270Salaries,166Jobs,3.7★,1.1TReviews
+400,LG Electronics,18 office locations,10000+ Employees,Consumer Product Manufacturing,183Salaries,179Jobs,3.5★,3.6TReviews
+401,Test,"Headquarters in Versailles, France",Unknown,HR Consulting,447Salaries,37Jobs,4.1★,1.2TReviews
+402,Myntra,"Buildings Alyssa, Begonia and Clover situated in Embassy Tech Village, Outer Ring Road, Devarabeesanahalli Village, Varthur Hobli  ",1001 to 5000 Employees,Internet & Web Services,735Salaries,37Jobs,4.1★,1.3TReviews
+403,Hyundai Motor,18 office locations,10000+ Employees,Transportation Equipment Manufacturing,267Salaries,33Jobs,3.8★,2.3TReviews
+404,Hilton,27 office locations,10000+ Employees,Hotels & Resorts,32Salaries,7.6TJobs,4.1★,9.4TReviews
+405,Sun Life,26 office locations,1001 to 5000 Employees,Insurance Carriers,116Salaries,1.1TJobs,4.2★,3.3TReviews
+406,Alcatel-Lucent,23 office locations,10000+ Employees,Telecommunications Services,221Salaries,8Jobs,4.1★,2.7TReviews
+407,IDFC First Bank,"IDFC FIRST Bank Ltd Naman Chambers, C-32, G-Block, Bandra-Kurla Complex, Bandra East ",10000+ Employees,Banking & Lending,526Salaries,121Jobs,4.1★,1.5TReviews
+408,Finastra,27 office locations,10000+ Employees,Financial Transaction Processing,329Salaries,516Jobs,3.8★,2.3TReviews
+409,Ogilvy,30 office locations,1001 to 5000 Employees,Advertising & Public Relations,73Salaries,530Jobs,3.8★,4TReviews
+410,FCA Fiat Chrysler Automobiles,25 office locations,10000+ Employees,Transportation Equipment Manufacturing,88Salaries,535Jobs,3.6★,6.2TReviews
+411,Burger King,34 rue Mozart  ,10000+ Employees,Restaurants & Cafes,59Salaries,36.4TJobs,3.4★,14.4TReviews
+412,Ingram Micro,25 office locations,10000+ Employees,Computer Hardware Development,231Salaries,1.1TJobs,3.8★,3.1TReviews
+413,Rackspace Technology,25 office locations,1001 to 5000 Employees,Information Technology Support Services,64Salaries,364Jobs,3.6★,3.1TReviews
+414,Aditya Birla Group,47 office locations,10000+ Employees,Consumer Product Manufacturing,537Salaries,1.6TJobs,4.0★,1.5TReviews
+415,Private,"Headquarters in Columbus, OH",1 to 50 Employees,Healthcare Services & Hospitals,242Salaries,8Jobs,4.1★,1.8TReviews
+416,Lionbridge,29 office locations,5001 to 10000 Employees,Information Technology Support Services,125Salaries,137Jobs,3.7★,3.5TReviews
+417,3M,27 office locations,10000+ Employees,Consumer Product Manufacturing,80Salaries,1.2TJobs,3.8★,5.9TReviews
+418,Renault Nissan Technology & Business Centre,"Headquarters in Chennai, India",1001 to 5000 Employees,Research & Development,786Salaries,--Jobs,3.7★,1.4TReviews
+419,Brillio,20 office locations,1001 to 5000 Employees,Information Technology Support Services,535Salaries,128Jobs,4.0★,1.3TReviews
+420,HTC Global Services,10 office locations,10000+ Employees,Information Technology Support Services,384Salaries,78Jobs,3.7★,1.1TReviews
+421,Sony,18 office locations,10000+ Employees,Consumer Product Manufacturing,205Salaries,2.1TJobs,4.1★,3.1TReviews
+422,ALTEN,41 office locations,10000+ Employees,Research & Development,116Salaries,3.5TJobs,3.4★,4.4TReviews
+423,Tavant,8 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,420Salaries,55Jobs,4.4★,1.2TReviews
+424,Wipro,"Headquarters in Dresden, Germany",Unknown,N/A,717Salaries,--Jobs,3.7★,1.4TReviews
+425,Publicis Groupe,19 office locations,10000+ Employees,Advertising & Public Relations,176Salaries,1.1TJobs,3.9★,3.4TReviews
+426,Autodesk,26 office locations,1001 to 5000 Employees,Computer Hardware Development,79Salaries,829Jobs,4.2★,3.9TReviews
+427,eBay,24 office locations,10000+ Employees,Internet & Web Services,89Salaries,296Jobs,4.1★,5.1TReviews
+428,TE Connectivity,25 office locations,10000+ Employees,Electronics Manufacturing,128Salaries,2.2TJobs,3.8★,2.9TReviews
+429,,20 office locations,,,,,,
+430,,10 office locations,,,,,,
+431,,18 office locations,,,,,,
+432,,41 office locations,,,,,,
+433,,8 office locations,,,,,,
+434,,"Headquarters in Dresden, Germany",,,,,,
+435,,19 office locations,,,,,,
+436,,26 office locations,,,,,,
+437,,24 office locations,,,,,,
+438,,25 office locations,,,,,,
+439,Rockwell Automation,25 office locations,10000+ Employees,Machinery Manufacturing,169Salaries,1.7TJobs,3.9★,2.9TReviews
+440,Atkins,28 office locations,10000+ Employees,Business Consulting,86Salaries,1.4TJobs,3.9★,2.3TReviews
+441,Alight Solutions,25 office locations,10000+ Employees,HR Consulting,154Salaries,553Jobs,3.6★,2.5TReviews
+442,NXP Semiconductors,25 office locations,10000+ Employees,Electronics Manufacturing,159Salaries,1.1TJobs,3.9★,2.1TReviews
+443,Mastech Digital,13 office locations,1001 to 5000 Employees,Information Technology Support Services,50Salaries,76Jobs,3.9★,652Reviews
+444,Marks & Spencer,"Headquarters in London, United Kingdom",10000+ Employees,"Department, Clothing & Shoe Stores",57Salaries,1.4TJobs,3.7★,7.7TReviews
+445,Ciena,21 office locations,5001 to 10000 Employees,Telecommunications Services,154Salaries,333Jobs,4.4★,1.7TReviews
+446,Roche,148 office locations,10000+ Employees,Biotech & Pharmaceuticals,62Salaries,2.1TJobs,4.3★,6.8TReviews
+447,Volvo Group,24 office locations,10000+ Employees,Transportation Equipment Manufacturing,226Salaries,1TJobs,4.2★,2.4TReviews
+448,IndiaMART,25 office locations,1001 to 5000 Employees,Internet & Web Services,653Salaries,--Jobs,3.7★,1.9TReviews
+449,Diageo,27 office locations,10000+ Employees,Food & Beverage Manufacturing,137Salaries,632Jobs,4.1★,3TReviews
+450,Dr. Reddy's,4 office locations,10000+ Employees,Biotech & Pharmaceuticals,357Salaries,318Jobs,3.9★,1.5TReviews
+451,Cushman & Wakefield,28 office locations,10000+ Employees,Real Estate,181Salaries,1.8TJobs,3.8★,3.9TReviews
+452,Infinite Computer Solutions,4 office locations,1001 to 5000 Employees,Information Technology Support Services,456Salaries,381Jobs,3.6★,1.3TReviews
+453,Intellect Design Arena,5 office locations,1001 to 5000 Employees,Computer Hardware Development,838Salaries,20Jobs,4.1★,1.7TReviews
+454,DuPont,26 office locations,10000+ Employees,Consumer Product Manufacturing,64Salaries,588Jobs,4.0★,3.3TReviews
+455,Eli Lilly and Company,28 office locations,10000+ Employees,Biotech & Pharmaceuticals,96Salaries,924Jobs,4.0★,4TReviews
+456,Photon,12 office locations,5001 to 10000 Employees,Information Technology Support Services,386Salaries,242Jobs,4.0★,1.4TReviews
+457,IHG Hotels and Resorts,26 office locations,10000+ Employees,Hotels & Resorts,99Salaries,2.4TJobs,4.0★,4.2TReviews
+458,SLK Group,5 office locations,5001 to 10000 Employees,Computer Hardware Development,390Salaries,9Jobs,3.8★,1.2TReviews
+459,Henkel,25 office locations,10000+ Employees,Consumer Product Manufacturing,48Salaries,1.5TJobs,4.4★,5.5TReviews
+460,3i Infotech,3 office locations,5001 to 10000 Employees,Information Technology Support Services,429Salaries,43Jobs,3.5★,1.1TReviews
+461,Confidential,"Headquarters in Sydney, Australia",Unknown,N/A,271Salaries,52Jobs,3.9★,1.4TReviews
+462,Halliburton,25 office locations,10000+ Employees,Energy & Utilities,43Salaries,1.1TJobs,3.7★,5.8TReviews
+463,R1 RCM,25 office locations,10000+ Employees,Healthcare Services & Hospitals,378Salaries,1TJobs,3.3★,1.8TReviews
+464,CVS Health,27 office locations,10000+ Employees,Healthcare Services & Hospitals,18Salaries,46.4TJobs,3.1★,32.4TReviews
+465,Bosch,30 office locations,10000+ Employees,Consumer Product Manufacturing,217Salaries,7.5TJobs,4.2★,2.1TReviews
+466,Bloomberg L.P.,28 office locations,10000+ Employees,Computer Hardware Development,35Salaries,996Jobs,4.1★,6.9TReviews
+467,Infineon Technologies,21 office locations,10000+ Employees,Electronics Manufacturing,153Salaries,2TJobs,4.2★,2.9TReviews
+468,Colgate-Palmolive,24 office locations,10000+ Employees,Consumer Product Manufacturing,88Salaries,362Jobs,4.3★,3.1TReviews
+469,Aegis,3 office locations,5001 to 10000 Employees,Accounting & Tax,272Salaries,25Jobs,3.4★,1.6TReviews
+470,Franklin Templeton Investments,21 office locations,5001 to 10000 Employees,Investment & Asset Management,259Salaries,111Jobs,4.0★,1.8TReviews
+471,Subway,"Headquarters in Milford, CT",5001 to 10000 Employees,Restaurants & Cafes,49Salaries,19.9TJobs,3.4★,17.1TReviews
+472,Sainsbury’s,"Headquarters in London, United Kingdom",10000+ Employees,Grocery Stores,57Salaries,1.1TJobs,3.6★,12.2TReviews
+473,Delhivery,7 office locations,10000+ Employees,Taxi & Car Services,716Salaries,52Jobs,3.7★,1.1TReviews
+474,ZF Group,32 office locations,10000+ Employees,Transportation Equipment Manufacturing,174Salaries,3.3TJobs,3.9★,3TReviews
+475,Citicorp Services India,"Headquarters in Mumbai, India",5001 to 10000 Employees,Accounting & Tax,584Salaries,13.5TJobs,3.8★,1.1TReviews
+476,JSW Steel,2 office locations,10000+ Employees,Metal & Mineral Manufacturing,347Salaries,--Jobs,3.5★,1.3TReviews
+477,PolicyBazaar,3 office locations,5001 to 10000 Employees,Insurance Agencies & Brokerages,482Salaries,12Jobs,4.0★,1.3TReviews
+478,Quess,3 office locations,10000+ Employees,HR Consulting,378Salaries,660Jobs,3.6★,1.3TReviews
+479,Hero MotoCorp,13 office locations,10000+ Employees,Transportation Equipment Manufacturing,368Salaries,24Jobs,4.1★,1.3TReviews
+480,Bureau Veritas,28 office locations,10000+ Employees,Farm Support Services,123Salaries,2.3TJobs,3.4★,2.9TReviews
+481,Urban Company,20 office locations,1001 to 5000 Employees,Internet & Web Services,368Salaries,11Jobs,3.9★,1.1TReviews
+482,HSBC Software Development India,"Headquarters in Pune, India",51 to 200 Employees,N/A,885Salaries,--Jobs,4.0★,1.3TReviews
+483,Kyndryl,9 office locations,10000+ Employees,Information Technology Support Services,221Salaries,996Jobs,3.9★,1.5TReviews
+484,Comviva,4 office locations,1001 to 5000 Employees,Information Technology Support Services,621Salaries,498Jobs,3.7★,1.2TReviews
+485,Serco Group,32 office locations,10000+ Employees,HR Consulting,123Salaries,1.8TJobs,3.3★,2.8TReviews
+486,Accenture Solutions,"Headquarters in Gurgaon, India",10000+ Employees,N/A,421Salaries,--Jobs,4.2★,1.3TReviews
+487,ICON,27 office locations,10000+ Employees,Biotech & Pharmaceuticals,45Salaries,1.5TJobs,3.8★,3.1TReviews
+488,Faurecia,39 office locations,10000+ Employees,Transportation Equipment Manufacturing,64Salaries,948Jobs,3.7★,3TReviews
+489,Lenovo,23 office locations,10000+ Employees,Computer Hardware Development,119Salaries,932Jobs,4.0★,3.4TReviews
+490,Kelly,40 office locations,5001 to 10000 Employees,HR Consulting,56Salaries,8.1TJobs,3.5★,7TReviews
+491,WSP,29 office locations,10000+ Employees,Architectural & Engineering Services,64Salaries,2.8TJobs,3.7★,4TReviews
+492,Baxter,77 office locations,10000+ Employees,Biotech & Pharmaceuticals,73Salaries,1.2TJobs,3.8★,3.7TReviews
+493,Patni Computer Systems,6 office locations,5001 to 10000 Employees,Information Technology Support Services,166Salaries,--Jobs,4.3★,463Reviews
+494,thyssenkrupp,28 office locations,10000+ Employees,Machinery Manufacturing,98Salaries,2.3TJobs,3.8★,3TReviews
+495,SS&C,18 office locations,10000+ Employees,Information Technology Support Services,303Salaries,833Jobs,3.2★,2.1TReviews
+496,RealPage,8 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,84Salaries,247Jobs,3.9★,1.8TReviews
+497,Sonata Software,5 office locations,1001 to 5000 Employees,Information Technology Support Services,445Salaries,6Jobs,3.9★,1.3TReviews
+498,Samsung R&D Institute India - Noida,"Headquarters in Noida, India",1001 to 5000 Employees,Computer Hardware Development,745Salaries,1Jobs,3.2★,1.1TReviews
+499,Advisory Board,655 New York Avenue ,1001 to 5000 Employees,Healthcare Services & Hospitals,259Salaries,2Jobs,4.0★,1.7TReviews
+500,Pitney Bowes,25 office locations,10000+ Employees,Shipping & Trucking,131Salaries,285Jobs,3.6★,2.4TReviews
+501,Datamatics Global Services,9 office locations,5001 to 10000 Employees,Information Technology Support Services,490Salaries,313Jobs,3.4★,1.3TReviews
+502,Iris Software,14 office locations,1001 to 5000 Employees,Information Technology Support Services,192Salaries,591Jobs,4.3★,1.3TReviews
+503,HDFC Standard Life Insurance,26 office locations,10000+ Employees,Insurance Carriers,431Salaries,109Jobs,3.8★,1.2TReviews
+504,Expleo Group,87 office locations,10000+ Employees,Business Consulting,117Salaries,1.8TJobs,3.5★,1.7TReviews
+505,Marsh McLennan,25 office locations,10000+ Employees,Insurance Agencies & Brokerages,178Salaries,915Jobs,4.0★,2.5TReviews
+506,SYKES,9 office locations,10000+ Employees,HR Consulting,83Salaries,507Jobs,3.3★,6.9TReviews
+507,Amazon Flex,11 office locations,5001 to 10000 Employees,Shipping & Trucking,144Salaries,2.3TJobs,3.6★,4.5TReviews
+508,National Instruments,19 office locations,5001 to 10000 Employees,Electronics Manufacturing,132Salaries,221Jobs,3.9★,2.3TReviews
+509,Goodwill,25 office locations,1001 to 5000 Employees,"Civic, Welfare & Social Services",87Salaries,8.7TJobs,3.3★,7.2TReviews
+510,First American Financial Corporation,31 office locations,10000+ Employees,Insurance Carriers,184Salaries,189Jobs,3.8★,1.7TReviews
+511,BD,73 office locations,10000+ Employees,Health Care Products Manufacturing,52Salaries,2.8TJobs,3.9★,4.3TReviews
+512,Diebold Nixdorf,28 office locations,10000+ Employees,Information Technology Support Services,167Salaries,377Jobs,3.5★,2.5TReviews
+513,Fedex Express,35 office locations,10000+ Employees,Shipping & Trucking,59Salaries,3.2TJobs,3.6★,6.1TReviews
+514,Microland,16 office locations,1001 to 5000 Employees,Information Technology Support Services,200Salaries,4.1TJobs,3.8★,1.1TReviews
+515,Synchrony,23 office locations,10000+ Employees,Banking & Lending,196Salaries,384Jobs,4.3★,1.8TReviews
+516,EdgeVerve Systems,4 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,222Salaries,3.2TJobs,3.7★,1.2TReviews
+517,Moody's Analytics,37 office locations,5001 to 10000 Employees,Research & Development,209Salaries,6Jobs,3.9★,1.5TReviews
+518,Ipsos,26 office locations,10000+ Employees,Business Consulting,102Salaries,580Jobs,3.7★,4.2TReviews
+519,CompuCom,25 office locations,10000+ Employees,Information Technology Support Services,63Salaries,129Jobs,3.9★,3TReviews
+520,Atlassian,13 office locations,5001 to 10000 Employees,Software Development,132Salaries,598Jobs,4.7★,1.8TReviews
+521,Bharat Heavy Electricals,"Headquarters in New Delhi, India",10000+ Employees,Electronics Manufacturing,446Salaries,--Jobs,4.2★,1.3TReviews
+522,HCL Infosystems,"Singapore, ",5001 to 10000 Employees,Computer Hardware Development,363Salaries,561Jobs,3.8★,1.4TReviews
+523,Spectrum,96 office locations,10000+ Employees,Telecommunications Services,29Salaries,4.3TJobs,3.3★,12.5TReviews
+524,Incedo,8 office locations,1001 to 5000 Employees,Information Technology Support Services,460Salaries,909Jobs,4.0★,1.2TReviews
+525,Citco,21 office locations,5001 to 10000 Employees,Investment & Asset Management,90Salaries,587Jobs,3.5★,2.3TReviews
+526,Analog Devices,22 office locations,10000+ Employees,Electronics Manufacturing,131Salaries,1.6TJobs,4.1★,2TReviews
+527,BASF,25 office locations,10000+ Employees,Chemical Manufacturing,52Salaries,1.7TJobs,4.1★,5.7TReviews
+528,IBS Software,11 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,580Salaries,61Jobs,3.9★,1.1TReviews
+529,NICE,25 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,156Salaries,22Jobs,4.2★,1.6TReviews
+530,MSCI,14 office locations,1001 to 5000 Employees,Research & Development,399Salaries,98Jobs,4.2★,1.5TReviews
+531,Ocwen Financial,8 office locations,1001 to 5000 Employees,Financial Transaction Processing,356Salaries,22Jobs,3.6★,1.4TReviews
+532,Experian,25 office locations,10000+ Employees,Research & Development,99Salaries,579Jobs,4.1★,5.1TReviews
+533,SAS,31 office locations,10000+ Employees,Computer Hardware Development,120Salaries,333Jobs,4.1★,2.8TReviews
+534,Telstra,35 office locations,10000+ Employees,Telecommunications Services,118Salaries,234Jobs,3.9★,3.8TReviews
+535,Hexagon,22 office locations,1001 to 5000 Employees,Computer Hardware Development,245Salaries,397Jobs,3.9★,1.5TReviews
+536,FICO,21 office locations,1001 to 5000 Employees,Computer Hardware Development,207Salaries,182Jobs,4.0★,1.4TReviews
+537,Government of India,"Headquarters in Bangalore, India",5001 to 10000 Employees,National Services & Agencies,303Salaries,--Jobs,4.3★,1.1TReviews
+538,GlobalData,4 office locations,1001 to 5000 Employees,Research & Development,303Salaries,27Jobs,3.5★,1.5TReviews
+539,HDB Financial Services,4 office locations,1 to 50 Employees,N/A,376Salaries,307Jobs,3.6★,1.1TReviews
+540,United Airlines,24 office locations,10000+ Employees,"Airlines, Airports & Air Transportation",64Salaries,775Jobs,4.1★,5.6TReviews
+541,Agilent Technologies,34 office locations,10000+ Employees,Biotech & Pharmaceuticals,77Salaries,538Jobs,4.2★,2.3TReviews
+542,Freelance,"Bangalore, KA",1 to 50 Employees,N/A,116Salaries,2Jobs,4.3★,1.9TReviews
+543,Bharat Electronics,"Headquarters in Bangalore, India",10000+ Employees,Electronics Manufacturing,317Salaries,--Jobs,3.9★,1.2TReviews
+544,Motorola Solutions,22 office locations,10000+ Employees,Telecommunications Services,119Salaries,902Jobs,3.9★,3.6TReviews
+545,Western Union,33 office locations,10000+ Employees,Financial Transaction Processing,129Salaries,526Jobs,3.9★,2.3TReviews
+546,Toppr.com,16 office locations,1001 to 5000 Employees,Primary & Secondary Schools,268Salaries,2Jobs,3.7★,1.1TReviews
+547,Fluor,33 office locations,10000+ Employees,Construction,27Salaries,2.3TJobs,4.0★,2.9TReviews
+548,PK,21 office locations,1001 to 5000 Employees,Information Technology Support Services,231Salaries,2Jobs,4.0★,952Reviews
+549,Ecolab,35 office locations,10000+ Employees,Chemical Manufacturing,34Salaries,886Jobs,3.6★,4.4TReviews
+550,NielsenIQ,"Headquarters in Chicago, IL",10000+ Employees,Information Technology Support Services,191Salaries,645Jobs,3.9★,1.7TReviews
+551,Bitwise,2 office locations,1001 to 5000 Employees,Information Technology Support Services,240Salaries,7Jobs,4.4★,874Reviews
+552,US Navy,25 office locations,1001 to 5000 Employees,National Services & Agencies,39Salaries,101Jobs,3.7★,25.5TReviews
+553,Fresherworld.com,"Headquarters in Bangalore, India",201 to 500 Employees,Film Production,540Salaries,--Jobs,4.1★,602Reviews
+554,Times Internet,8 office locations,1001 to 5000 Employees,Internet & Web Services,395Salaries,11Jobs,4.2★,1.1TReviews
+555,Ashok Leyland,"Headquarters in Chennai, India",10000+ Employees,Transportation Equipment Manufacturing,308Salaries,--Jobs,4.1★,1.2TReviews
+556,Keysight Technologies,25 office locations,10000+ Employees,Electronics Manufacturing,103Salaries,732Jobs,4.2★,1.6TReviews
+557,eTeam,25 office locations,5001 to 10000 Employees,"Staffing, Recruitment & Subcontracting",62Salaries,3.7TJobs,4.4★,2TReviews
+558,ByteDance,47 office locations,10000+ Employees,Internet & Web Services,70Salaries,12.2TJobs,4.1★,2.3TReviews
+559,Futures First,"Headquarters in Gurgaon, India",201 to 500 Employees,Research & Development,155Salaries,4Jobs,4.3★,701Reviews
+560,HSBC Electronic Data Processing India,"Headquarters in Bangalore, India",201 to 500 Employees,N/A,671Salaries,--Jobs,4.0★,1TReviews
+561,Merck,126 East Lincoln Avenue ,10000+ Employees,Biotech & Pharmaceuticals,45Salaries,1.3TJobs,4.1★,5.9TReviews
+562,Swiss Re,24 office locations,10000+ Employees,Insurance Agencies & Brokerages,104Salaries,445Jobs,4.2★,1.9TReviews
+563,Optum Global Solutions,"Headquarters in Hyderābād, India",1 to 50 Employees,N/A,501Salaries,--Jobs,4.0★,1.2TReviews
+564,Simplilearn Solutions,2 office locations,1001 to 5000 Employees,Education Support & Training Services,144Salaries,13Jobs,3.9★,1.3TReviews
+565,NeoSOFT,14 office locations,1001 to 5000 Employees,Information Technology Support Services,510Salaries,1Jobs,4.1★,989Reviews
+566,"Merck KGaA, Darmstadt, Germany",24 office locations,10000+ Employees,Biotech & Pharmaceuticals,155Salaries,917Jobs,4.1★,2.2TReviews
+567,Honda,20 office locations,10000+ Employees,Transportation Equipment Manufacturing,115Salaries,1.8TJobs,3.9★,3.3TReviews
+568,TransUnion,25 office locations,10000+ Employees,Research & Development,144Salaries,609Jobs,4.0★,1.7TReviews
+569,Worley,29 office locations,10000+ Employees,Energy & Utilities,48Salaries,3.1TJobs,3.6★,2.8TReviews
+570,Nucleus Software Exports,3 office locations,1001 to 5000 Employees,Computer Hardware Development,628Salaries,29Jobs,3.7★,1.2TReviews
+571,R Systems,24 office locations,1001 to 5000 Employees,Information Technology Support Services,314Salaries,91Jobs,4.0★,1TReviews
+572,Microchip Technology,25 office locations,10000+ Employees,Electronics Manufacturing,117Salaries,1.2TJobs,4.0★,1.7TReviews
+573,Indegene,9 office locations,1001 to 5000 Employees,Healthcare Services & Hospitals,275Salaries,--Jobs,3.8★,910Reviews
+574,Michelin,28 office locations,10000+ Employees,Machinery Manufacturing,104Salaries,586Jobs,4.0★,2.6TReviews
+575,Vodafone Idea,8 office locations,10000+ Employees,N/A,460Salaries,3Jobs,3.8★,1.2TReviews
+576,Axtria,14 office locations,501 to 1000 Employees,Business Consulting,657Salaries,10Jobs,3.7★,912Reviews
+577,udaan.com,"1090 G, 18th Cross, 14th Main, Sector 3, HSR Layout, Bengaluru, Karnataka 560102 ",1001 to 5000 Employees,Internet & Web Services,381Salaries,2Jobs,3.8★,955Reviews
+578,Motorola Mobility,11 office locations,1001 to 5000 Employees,Electronics Manufacturing,166Salaries,932Jobs,4.1★,2.7TReviews
+579,Toshiba,2 office locations,1001 to 5000 Employees,Machinery Manufacturing,295Salaries,581Jobs,3.6★,1.8TReviews
+580,Square Yards,2 office locations,1001 to 5000 Employees,Real Estate,235Salaries,15Jobs,3.1★,1.4TReviews
+581,Omega Healthcare,11 office locations,10000+ Employees,Healthcare Services & Hospitals,129Salaries,41Jobs,3.8★,1TReviews
+582,Pizza Hut,"Headquarters in Plano, TX",10000+ Employees,Restaurants & Cafes,40Salaries,35.4TJobs,3.4★,11.1TReviews
+583,Majorel,4 office locations,10000+ Employees,HR Consulting,85Salaries,2.1TJobs,3.6★,2.5TReviews
+584,Impetus Technologies,8 office locations,1001 to 5000 Employees,Computer Hardware Development,286Salaries,164Jobs,4.3★,986Reviews
+585,Commonwealth Bank of Australia,12 office locations,10000+ Employees,Banking & Lending,46Salaries,400Jobs,4.1★,5TReviews
+586,Marvell Technology,27 office locations,5001 to 10000 Employees,Computer Hardware Development,89Salaries,450Jobs,4.3★,1.7TReviews
+587,Best Buy,6 office locations,10000+ Employees,Consumer Electronics & Appliances Stores,11Salaries,3.9TJobs,3.7★,33.3TReviews
+588,Jaro Education,12 office locations,501 to 1000 Employees,Education Support & Training Services,193Salaries,3Jobs,4.2★,1.1TReviews
+589,Hitachi,20 office locations,10000+ Employees,Enterprise Software & Network Solutions,114Salaries,5.9TJobs,3.8★,2TReviews
+590,Technicolor,25 office locations,10000+ Employees,Film Production,82Salaries,218Jobs,3.9★,1.5TReviews
+591,Chetu,14 office locations,1001 to 5000 Employees,Computer Hardware Development,402Salaries,24Jobs,3.6★,1.2TReviews
+592,Genesys,53 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,158Salaries,95Jobs,4.2★,2.2TReviews
+593,GE Aerospace,33 office locations,1001 to 5000 Employees,Aerospace & Defence,48Salaries,1.4TJobs,3.8★,3.4TReviews
+594,CTS,"Headquarters in Eysines, France",51 to 200 Employees,Information Technology Support Services,560Salaries,3Jobs,3.8★,1.1TReviews
+595,Luxoft,22 office locations,10000+ Employees,Information Technology Support Services,143Salaries,1.6TJobs,4.3★,2.9TReviews
+596,Mazars,28 office locations,10000+ Employees,Accounting & Tax,99Salaries,2.1TJobs,3.8★,3.4TReviews
+597,Symphony Teleca,3 office locations,1001 to 5000 Employees,Information Technology Support Services,233Salaries,1.3TJobs,4.1★,1.1TReviews
+598,Whole Foods Market,"Headquarters in Austin, TX",10000+ Employees,Grocery Stores,46Salaries,4.1TJobs,3.5★,16.3TReviews
+599,Volkswagen,26 office locations,10000+ Employees,Transportation Equipment Manufacturing,94Salaries,345Jobs,4.1★,3.7TReviews
+600,Yodlee,2 office locations,1001 to 5000 Employees,Computer Hardware Development,450Salaries,--Jobs,3.6★,886Reviews
+601,Gap,11 office locations,10000+ Employees,"Department, Clothing & Shoe Stores",37Salaries,32Jobs,3.7★,8.5TReviews
+602,Cipla,"Headquarters in Mumbai, India",10000+ Employees,Biotech & Pharmaceuticals,231Salaries,82Jobs,3.9★,1.2TReviews
+603,Enterprise,"Headquarters in Saint Louis, MO",10000+ Employees,Car & Truck Rental,20Salaries,1.3TJobs,3.5★,21.9TReviews
+604,YMCA,29 office locations,1001 to 5000 Employees,"Civic, Welfare & Social Services",34Salaries,16.3TJobs,3.9★,17.4TReviews
+605,Bharat Petroleum,"Headquarters in Mumbai, India",10000+ Employees,Energy & Utilities,417Salaries,--Jobs,3.7★,986Reviews
+606,Bajaj Auto,"Old Mumbai-Pune Highway, Akurdi ",10000+ Employees,Transportation Equipment Manufacturing,361Salaries,--Jobs,3.6★,861Reviews
+607,Indeed,18 office locations,10000+ Employees,Internet & Web Services,86Salaries,1.2TJobs,4.5★,3TReviews
+608,XPO Logistics,25 office locations,10000+ Employees,Shipping & Trucking,48Salaries,3.1TJobs,3.6★,5.4TReviews
+609,TO THE NEW,4 office locations,1001 to 5000 Employees,Information Technology Support Services,370Salaries,--Jobs,4.2★,877Reviews
+610,Ugam,"Headquarters in Mumbai, India",1001 to 5000 Employees,Information Technology Support Services,499Salaries,157Jobs,3.9★,880Reviews
+611,Mercedes-Benz Group,26 office locations,10000+ Employees,Transportation Equipment Manufacturing,86Salaries,3TJobs,4.2★,4.1TReviews
+612,Walgreens,2370 East Main Street ,10000+ Employees,Drug & Health Stores,21Salaries,25.9TJobs,3.1★,28.6TReviews
+613,Orange Business Services,45 office locations,10000+ Employees,Enterprise Software & Network Solutions,169Salaries,2.1TJobs,4.0★,1.8TReviews
+614,Aptiv,25 office locations,10000+ Employees,Electronics Manufacturing,145Salaries,748Jobs,3.8★,1.7TReviews
+615,Kearney,6 office locations,1001 to 5000 Employees,Business Consulting,119Salaries,1Jobs,4.3★,1.8TReviews
+616,Safran,30 office locations,10000+ Employees,Aerospace & Defence,72Salaries,3.2TJobs,3.8★,3.8TReviews
+617,test,N/A,1 to 50 Employees,N/A,287Salaries,--Jobs,3.9★,876Reviews
+618,ICICI Securities,"Headquarters in Mumbai, India",1001 to 5000 Employees,Investment & Asset Management,179Salaries,11Jobs,3.4★,1TReviews
+619,CARS24.com,2 office locations,1001 to 5000 Employees,Internet & Web Services,289Salaries,17Jobs,3.8★,959Reviews
+620,Merkle,26 office locations,1001 to 5000 Employees,Advertising & Public Relations,115Salaries,1.2TJobs,3.8★,1.7TReviews
+621,D. E. Shaw India,"Headquarters in Hyderābād, India",501 to 1000 Employees,Investment & Asset Management,314Salaries,--Jobs,4.2★,623Reviews
+622,Shadowfax Technologies,"Bangalore, KA",51 to 200 Employees,N/A,278Salaries,--Jobs,4.4★,1.2TReviews
+623,Zara,"Headquarters in Arteixo, Spain",10000+ Employees,"Department, Clothing & Shoe Stores",44Salaries,289Jobs,3.4★,9TReviews
+624,Reliance Retail,"Headquarters in Mumbai, India",10000+ Employees,Other Retail Shops,430Salaries,15Jobs,3.7★,926Reviews
+625,Perficient,21 office locations,5001 to 10000 Employees,Information Technology Support Services,42Salaries,205Jobs,4.1★,1.7TReviews
+626,Software AG,58 office locations,501 to 1000 Employees,Software Development,220Salaries,184Jobs,4.3★,1.1TReviews
+627,ASDA,"Leeds, ENG",10000+ Employees,General Merchandise & Superstores,74Salaries,1.8TJobs,3.4★,8.3TReviews
+628,GroupM,19 office locations,10000+ Employees,Publishing,100Salaries,604Jobs,3.9★,1.8TReviews
+629,Experis,25 office locations,5001 to 10000 Employees,HR Consulting,57Salaries,4.1TJobs,3.6★,2.5TReviews
+630,WeWork,86 office locations,1001 to 5000 Employees,Real Estate,54Salaries,135Jobs,3.7★,2.9TReviews
+631,Zscaler,20 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,154Salaries,753Jobs,4.5★,1.6TReviews
+632,Planet Spark,2 office locations,201 to 500 Employees,Primary & Secondary Schools,113Salaries,11Jobs,3.3★,673Reviews
+633,Alorica,202 office locations,10000+ Employees,HR Consulting,27Salaries,347Jobs,3.1★,8.3TReviews
+634,Edelman,25 office locations,5001 to 10000 Employees,Advertising & Public Relations,77Salaries,441Jobs,3.8★,3.3TReviews
+635,Colt Technology Services,19 office locations,5001 to 10000 Employees,Telecommunications Services,180Salaries,146Jobs,4.3★,1.3TReviews
+636,IndiGo,"Headquarters in Gurgaon, India",10000+ Employees,"Airlines, Airports & Air Transportation",143Salaries,--Jobs,3.7★,922Reviews
+637,AXA XL,17 office locations,5001 to 10000 Employees,Insurance Carriers,310Salaries,247Jobs,3.9★,1.3TReviews
+638,Toyota Motor Corporation,8 office locations,10000+ Employees,Transportation Equipment Manufacturing,69Salaries,2.1TJobs,4.0★,2.5TReviews
+639,Atlas Copco,22 office locations,10000+ Employees,Machinery Manufacturing,94Salaries,984Jobs,4.1★,1.7TReviews
+640,GEICO,25 office locations,10000+ Employees,Insurance Carriers,48Salaries,241Jobs,3.3★,8.7TReviews
+641,Mars,24 office locations,10000+ Employees,Food & Beverage Manufacturing,27Salaries,1.7TJobs,4.3★,4.5TReviews
+642,Oil and Natural Gas,"Headquarters in New Delhi, India",10000+ Employees,Energy & Utilities,127Salaries,--Jobs,4.4★,1.1TReviews
+643,Santander,42 office locations,10000+ Employees,Banking & Lending,36Salaries,2.6TJobs,3.9★,15.6TReviews
+644,Subex,"Bangalore, KA",501 to 1000 Employees,Enterprise Software & Network Solutions,379Salaries,--Jobs,3.5★,894Reviews
+645,Seagate Technology,13 office locations,10000+ Employees,Computer Hardware Development,63Salaries,202Jobs,3.8★,2.5TReviews
+646,iNautix Technologies,"Chennai, TN",1001 to 5000 Employees,Information Technology Support Services,125Salaries,--Jobs,3.9★,966Reviews
+647,Trane Technologies,25 office locations,10000+ Employees,Machinery Manufacturing,79Salaries,1.5TJobs,4.3★,2.2TReviews
+648,ValueMomentum,2 office locations,1001 to 5000 Employees,Information Technology Support Services,293Salaries,59Jobs,3.9★,665Reviews
+649,CapitalVia,3 office locations,201 to 500 Employees,Research & Development,204Salaries,3Jobs,3.4★,1.1TReviews
+650,Zynga,8 office locations,1001 to 5000 Employees,Video Game Publishing,159Salaries,139Jobs,4.5★,1.2TReviews
+651,Scientific Games,13 office locations,5001 to 10000 Employees,Computer Hardware Development,240Salaries,41Jobs,3.7★,1.2TReviews
+652,Mott MacDonald,24 office locations,10000+ Employees,Architectural & Engineering Services,83Salaries,1.3TJobs,4.1★,2TReviews
+653,dunnhumby,12 office locations,1001 to 5000 Employees,Business Consulting,130Salaries,58Jobs,4.3★,1.3TReviews
+654,DICK'S Sporting Goods,7 office locations,10000+ Employees,Sporting Goods Stores,35Salaries,2.7TJobs,3.8★,8.9TReviews
+655,Freshers.com,N/A,1 to 50 Employees,N/A,536Salaries,--Jobs,4.0★,332Reviews
+656,Cypress Semiconductor,16 office locations,5001 to 10000 Employees,Computer Hardware Development,33Salaries,--Jobs,3.7★,764Reviews
+657,Refinitiv,10 office locations,10000+ Employees,Computer Hardware Development,136Salaries,566Jobs,3.8★,1.7TReviews
+658,HashedIn by Deloitte,"Headquarters in Bangalore, India",1001 to 5000 Employees,Information Technology Support Services,406Salaries,2Jobs,4.3★,636Reviews
+659,Edelweiss Financial Services,"Indore, MP",5001 to 10000 Employees,Investment & Asset Management,393Salaries,--Jobs,3.9★,964Reviews
+660,Compunnel,21 office locations,1001 to 5000 Employees,Information Technology Support Services,78Salaries,296Jobs,4.3★,532Reviews
+661,Lam Research,10 office locations,10000+ Employees,Electronics Manufacturing,93Salaries,520Jobs,4.5★,1.7TReviews
+662,GE Power,33 office locations,10000+ Employees,Energy & Utilities,75Salaries,1.5TJobs,3.8★,1.9TReviews
+663,Arcadis,25 office locations,10000+ Employees,Construction,65Salaries,2.3TJobs,4.0★,3.2TReviews
+664,MetricStream,4 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,110Salaries,10Jobs,3.4★,806Reviews
+665,Team Computers,6 office locations,1001 to 5000 Employees,Information Technology Support Services,139Salaries,40Jobs,4.0★,989Reviews
+666,Hilti Group,24 office locations,10000+ Employees,Construction,51Salaries,368Jobs,4.1★,2.2TReviews
+667,DISYS,43 office locations,1001 to 5000 Employees,Information Technology Support Services,59Salaries,332Jobs,4.0★,1.3TReviews
+668,Practo Technologies,9 office locations,501 to 1000 Employees,Internet & Web Services,309Salaries,81Jobs,3.8★,935Reviews
+669,Syneos Health ,16 office locations,10000+ Employees,Biotech & Pharmaceuticals,39Salaries,2.6TJobs,3.7★,2.3TReviews
+670,DHL Express,27 office locations,10000+ Employees,Shipping & Trucking,63Salaries,54Jobs,4.0★,3.7TReviews
+671,Visteon,9 office locations,10000+ Employees,Transportation Equipment Manufacturing,206Salaries,606Jobs,3.5★,1.3TReviews
+672,Bristlecone,9 office locations,1001 to 5000 Employees,Information Technology Support Services,440Salaries,189Jobs,3.8★,909Reviews
+673,Webhelp,13 office locations,10000+ Employees,HR Consulting,68Salaries,2TJobs,3.3★,3.4TReviews
+674,Tesla,16 office locations,10000+ Employees,Transportation Equipment Manufacturing,32Salaries,7.6TJobs,3.6★,7.7TReviews
+675,Syngenta,28 office locations,10000+ Employees,Crop Production,63Salaries,1TJobs,4.2★,2.5TReviews
+676,Invesco,15 office locations,Unknown,Investment & Asset Management,127Salaries,533Jobs,3.9★,1.5TReviews
+677,Embibe,"Diamond District,  No. 150, 1st Floor, Tower B, HAL Old Airport Rd, Kodihalli,  Bengaluru, Karnataka 560008 ",501 to 1000 Employees,Education Support & Training Services,155Salaries,--Jobs,4.3★,1.1TReviews
+678,XYZ,"Headquarters in Los Angeles, CA",1 to 50 Employees,N/A,546Salaries,--Jobs,3.8★,737Reviews
+679,Dow,43 office locations,10000+ Employees,Chemical Manufacturing,29Salaries,226Jobs,4.1★,3.7TReviews
+680,Startek,23 office locations,10000+ Employees,HR Consulting,160Salaries,86Jobs,3.2★,1.8TReviews
+681,TELUS International,2 office locations,10000+ Employees,Enterprise Software & Network Solutions,58Salaries,1.8TJobs,3.8★,2.4TReviews
+682,RSM,25 office locations,10000+ Employees,Accounting & Tax,43Salaries,4.1TJobs,3.9★,5.1TReviews
+683,Wipro Digital,"Headquarters in Brooklyn, NY",5001 to 10000 Employees,Information Technology Support Services,493Salaries,6Jobs,3.8★,934Reviews
+684,Renault Group,54 office locations,10000+ Employees,Machinery Manufacturing,55Salaries,1.3TJobs,3.8★,4.4TReviews
+685,Vestas Wind Systems,25 office locations,10000+ Employees,Electronics Manufacturing,121Salaries,1.1TJobs,3.8★,1.7TReviews
+686,Collegedunia,5 office locations,201 to 500 Employees,Internet & Web Services,247Salaries,4Jobs,3.8★,1TReviews
+687,T-Mobile,25 office locations,10000+ Employees,Telecommunications Services,27Salaries,5.6TJobs,3.8★,17.4TReviews
+688,Ivy,"Divyasree Omega, 5th Floor, B- Block, Hitech City Road, Kondapur ",1001 to 5000 Employees,Information Technology Support Services,387Salaries,205Jobs,4.1★,719Reviews
+689,Ciber,25 office locations,1001 to 5000 Employees,Information Technology Support Services,169Salaries,--Jobs,3.7★,1.3TReviews
+690,ManpowerGroup,28 office locations,10000+ Employees,HR Consulting,84Salaries,1.8LJobs,3.9★,2.5TReviews
+691,Einfochips,3 office locations,1001 to 5000 Employees,Information Technology Support Services,237Salaries,489Jobs,3.8★,894Reviews
+692,Innovaccer,3 office locations,1001 to 5000 Employees,Healthcare Services & Hospitals,254Salaries,33Jobs,3.9★,626Reviews
+693,Indian Institute of Technology Bombay,"Headquarters in Mumbai, India",501 to 1000 Employees,Colleges & Universities,240Salaries,--Jobs,4.6★,1.1TReviews
+694,TSYS|Total System Services,29 office locations,10000+ Employees,Financial Transaction Processing,83Salaries,6Jobs,3.6★,1.7TReviews
+695,IDEMIA,11 office locations,10000+ Employees,Enterprise Software & Network Solutions,195Salaries,329Jobs,3.8★,1.4TReviews
+696,Airbnb,20 office locations,5001 to 10000 Employees,Internet & Web Services,61Salaries,93Jobs,4.2★,2.1TReviews
+697,Accor,25 office locations,10000+ Employees,Hotels & Resorts,72Salaries,2.9TJobs,4.0★,2.9TReviews
+698,Chase,39 office locations,10000+ Employees,Banking & Lending,34Salaries,10.5TJobs,3.8★,9.6TReviews
+699,Macy's,3 office locations,10000+ Employees,"Department, Clothing & Shoe Stores",17Salaries,8.5TJobs,3.4★,27TReviews
+700,G4S,27 office locations,10000+ Employees,Security & Protective,28Salaries,1.9TJobs,3.4★,3.8TReviews
+701,ICICI Lombard General Insurance Company Limited,4 office locations,5001 to 10000 Employees,Insurance Carriers,326Salaries,11Jobs,3.6★,929Reviews
+702,KLA,16 office locations,5001 to 10000 Employees,Machinery Manufacturing,93Salaries,629Jobs,4.0★,1.4TReviews
+703,IIFL,3 office locations,1001 to 5000 Employees,Investment & Asset Management,225Salaries,2Jobs,3.9★,1TReviews
+704,Grab,14 office locations,5001 to 10000 Employees,Internet & Web Services,91Salaries,998Jobs,4.3★,3TReviews
+705,KONE,29 office locations,10000+ Employees,Commercial Equipment Services,114Salaries,851Jobs,4.2★,1.6TReviews
+706,BMW Group,29 office locations,10000+ Employees,Transportation Equipment Manufacturing,62Salaries,1.7TJobs,4.2★,4.6TReviews
+707,Bechtel,32 office locations,10000+ Employees,Architectural & Engineering Services,54Salaries,992Jobs,4.0★,2.1TReviews
+708,Express Employment Professionals,31 office locations,10000+ Employees,HR Consulting,71Salaries,5.1TJobs,3.9★,3.1TReviews
+709,Cigniti Inc.,7 office locations,1001 to 5000 Employees,Information Technology Support Services,105Salaries,64Jobs,4.1★,788Reviews
+710,Virtual Employee,6 office locations,1001 to 5000 Employees,HR Consulting,346Salaries,5Jobs,4.0★,647Reviews
+711,Aptean,10 office locations,1001 to 5000 Employees,Computer Hardware Development,193Salaries,39Jobs,3.6★,829Reviews
+712,Biocon,"20th KM, Hosur Road, Electronic City,  ",10000+ Employees,Biotech & Pharmaceuticals,203Salaries,--Jobs,3.7★,971Reviews
+713,Cactus Communications,8 office locations,1001 to 5000 Employees,Research & Development,107Salaries,963Jobs,4.4★,1.2TReviews
+714,Pole To Win,15 office locations,1001 to 5000 Employees,HR Consulting,49Salaries,11Jobs,3.5★,918Reviews
+715,IKS Health,7 office locations,1001 to 5000 Employees,Healthcare Services & Hospitals,189Salaries,15Jobs,3.4★,795Reviews
+716,Tata,"Bangalore, KA",10000+ Employees,Architectural & Engineering Services,313Salaries,43Jobs,4.2★,1.1TReviews
+717,Rockwell Collins,25 office locations,10000+ Employees,Aerospace & Defence,87Salaries,2.3TJobs,3.8★,2TReviews
+718,Indian Institute of Science,"Headquarters in Bangalore, India",201 to 500 Employees,Colleges & Universities,189Salaries,9Jobs,4.5★,984Reviews
+719,Hays,35 office locations,5001 to 10000 Employees,HR Consulting,24Salaries,46.5TJobs,3.7★,5.4TReviews
+720,Ramco Systems,"Headquarters in Chennai, India",1001 to 5000 Employees,Enterprise Software & Network Solutions,324Salaries,53Jobs,3.8★,941Reviews
+721,Kony,9 office locations,1001 to 5000 Employees,Computer Hardware Development,226Salaries,376Jobs,4.1★,930Reviews
+722,Conneqt Business Solutions,"Krian 2nd Floor, 1/9, Hesur Main Marg, Above Badget Mart, Muneswara Nagar, Roopena Agrahara, HSR Layout ",10000+ Employees,Information Technology Support Services,201Salaries,224Jobs,3.6★,743Reviews
+723,Dun & Bradstreet,11 office locations,5001 to 10000 Employees,Information Technology Support Services,87Salaries,319Jobs,3.9★,1.8TReviews
+724,Rivigo,4 office locations,1001 to 5000 Employees,Shipping & Trucking,247Salaries,7Jobs,3.5★,899Reviews
+725,Teamware Solutions,"Headquarters in Chennai, India",1001 to 5000 Employees,Information Technology Support Services,163Salaries,181Jobs,4.6★,1.2TReviews
+726,Iron Mountain,33 office locations,10000+ Employees,Information Technology Support Services,96Salaries,781Jobs,3.7★,2.4TReviews
+727,Tredence,6 office locations,1001 to 5000 Employees,Business Consulting,421Salaries,--Jobs,4.1★,600Reviews
+728,Media.net,3 office locations,501 to 1000 Employees,Internet & Web Services,196Salaries,44Jobs,4.2★,616Reviews
+729,Xilinx,8 office locations,1001 to 5000 Employees,Computer Hardware Development,100Salaries,11Jobs,4.4★,1.3TReviews
+730,Max Life Insurance,12 office locations,10000+ Employees,Insurance Carriers,189Salaries,8Jobs,4.1★,851Reviews
+731,Lenskart Solutions,2 office locations,1001 to 5000 Employees,Other Retail Shops,301Salaries,69Jobs,4.0★,993Reviews
+732,Hindustan Petroleum,"Headquarters in Mumbai, India",10000+ Employees,Metal & Mineral Manufacturing,276Salaries,--Jobs,4.0★,827Reviews
+733,InMobi,3 office locations,501 to 1000 Employees,Internet & Web Services,347Salaries,18Jobs,4.2★,791Reviews
+734,WM,25 office locations,10000+ Employees,Building & Personnel Services,63Salaries,1.6TJobs,3.6★,3.2TReviews
+735,Vedanta Resources,"Headquarters in London, United Kingdom",10000+ Employees,Mining & Metals,315Salaries,--Jobs,3.4★,813Reviews
+736,Epicor Software,25 office locations,1001 to 5000 Employees,Software Development,78Salaries,130Jobs,4.3★,1.7TReviews
+737,American Airlines,30 office locations,10000+ Employees,"Airlines, Airports & Air Transportation",54Salaries,162Jobs,3.8★,6.5TReviews
+738,DENSO,11 office locations,10000+ Employees,Transportation Equipment Manufacturing,94Salaries,1.2TJobs,3.4★,2.1TReviews
+739,Global Edge Software,3 office locations,1001 to 5000 Employees,Computer Hardware Development,327Salaries,--Jobs,3.7★,764Reviews
+740,IIT Madras,"Headquarters in Chennai, India",501 to 1000 Employees,Colleges & Universities,125Salaries,--Jobs,4.5★,872Reviews
+741,Samsung India Electronics,"Headquarters in New Delhi, India",1001 to 5000 Employees,Consumer Product Manufacturing,355Salaries,--Jobs,3.7★,923Reviews
+742,PUMA,41 office locations,1001 to 5000 Employees,"Department, Clothing & Shoe Stores",109Salaries,905Jobs,4.1★,1.7TReviews
+743,Aakash Educational Services,130 office locations,5001 to 10000 Employees,Education Support & Training Services,191Salaries,6Jobs,3.8★,831Reviews
+744,Lear Corporation,23 office locations,10000+ Employees,Transportation Equipment Manufacturing,72Salaries,450Jobs,3.9★,2.4TReviews
+745,Frost & Sullivan,40 office locations,1001 to 5000 Employees,Business Consulting,129Salaries,89Jobs,3.7★,1.2TReviews
+746,Shapoorji Pallonji,2 office locations,5001 to 10000 Employees,Construction,148Salaries,--Jobs,4.0★,894Reviews
+747,IDEA Cellular,"Headquarters in Mumbai, India",10000+ Employees,Telecommunications Services,308Salaries,--Jobs,4.2★,901Reviews
+748,Future Group,"Headquarters in Mumbai, India",10000+ Employees,General Merchandise & Superstores,298Salaries,5Jobs,3.9★,978Reviews
+749,Fareportal,6 office locations,1001 to 5000 Employees,Travel Agencies,199Salaries,5Jobs,3.6★,973Reviews
+750,Headstrong,6 office locations,1001 to 5000 Employees,Accounting & Tax,258Salaries,6.7TJobs,3.2★,655Reviews
+751,Apisero,12 office locations,1001 to 5000 Employees,Information Technology Support Services,403Salaries,17Jobs,4.4★,599Reviews
+752,Magna International,136 office locations,10000+ Employees,Transportation Equipment Manufacturing,69Salaries,2.8TJobs,3.7★,2.9TReviews
+753,QBurst,6 office locations,1001 to 5000 Employees,Information Technology Support Services,486Salaries,20Jobs,4.5★,708Reviews
+754,Empower,11 office locations,10000+ Employees,Investment & Asset Management,117Salaries,170Jobs,4.0★,1.3TReviews
+755,None of Your Business Boutique,"Headquarters in London, United Kingdom",51 to 200 Employees,N/A,158Salaries,--Jobs,4.3★,734Reviews
+756,Merit Group,3 office locations,1001 to 5000 Employees,Information Technology Support Services,52Salaries,30Jobs,4.0★,343Reviews
+757,OMICS International,"Hyderābād, TG",501 to 1000 Employees,Building & Personnel Services,151Salaries,1Jobs,3.8★,1TReviews
+758,"Ministry of Railways, Government of India","Headquarters in New Delhi, India",10000+ Employees,Taxi & Car Services,133Salaries,1Jobs,3.9★,883Reviews
+759,LanceSoft,30 office locations,1001 to 5000 Employees,HR Consulting,90Salaries,89Jobs,4.3★,1TReviews
+760,Fortinet,27 office locations,10000+ Employees,Computer Hardware Development,31Salaries,1.3TJobs,4.6★,1.8TReviews
+761,Linde,24 office locations,10000+ Employees,Chemical Manufacturing,42Salaries,1.1TJobs,3.6★,1.7TReviews
+762,Sage,18 office locations,10000+ Employees,Software Development,65Salaries,305Jobs,4.2★,4.4TReviews
+763,Reliance Communications,"Headquarters in Mumbai, India",10000+ Employees,Telecommunications Services,220Salaries,--Jobs,3.6★,978Reviews
+764,Clarivate,18 office locations,10000+ Employees,Information Technology Support Services,176Salaries,289Jobs,3.5★,1.1TReviews
+765,NoBrokerHood,10 office locations,1001 to 5000 Employees,Real Estate,132Salaries,16Jobs,4.0★,861Reviews
+766,VVDN Technologies ,16 office locations,1001 to 5000 Employees,Information Technology Support Services,298Salaries,7Jobs,3.7★,707Reviews
+767,NEC Corporation India,6 office locations,5001 to 10000 Employees,Information Technology Support Services,167Salaries,5.2TJobs,4.0★,770Reviews
+768,Ey,"Headquarters in Riyadh, Saudi Arabia",Unknown,N/A,197Salaries,--Jobs,4.0★,1.8TReviews
+769,NTT DATA Business Solutions,90 office locations,10000+ Employees,Information Technology Support Services,85Salaries,418Jobs,4.0★,675Reviews
+770,Trident Group,10 office locations,10000+ Employees,Consumer Product Manufacturing,256Salaries,26Jobs,3.5★,803Reviews
+771,CommScope,99 office locations,10000+ Employees,Telecommunications Services,97Salaries,627Jobs,3.7★,1.2TReviews
+772,Statestreet HCL Services,"Headquarters in New Delhi, India",51 to 200 Employees,Investment & Asset Management,500Salaries,--Jobs,3.1★,782Reviews
+773,Boston Scientific,29 office locations,10000+ Employees,Health Care Products Manufacturing,37Salaries,788Jobs,4.2★,4.1TReviews
+774,Arista Networks,16 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,224Salaries,136Jobs,4.1★,838Reviews
+775,Torry Harris Integration Solutions,9 office locations,1001 to 5000 Employees,Information Technology Support Services,388Salaries,58Jobs,4.1★,816Reviews
+776,MarketsandMarkets,"Pune, MH",1001 to 5000 Employees,Research & Development,248Salaries,2Jobs,3.5★,780Reviews
+777,GLOBALFOUNDRIES,27 office locations,10000+ Employees,Electronics Manufacturing,34Salaries,984Jobs,3.5★,2.7TReviews
+778,CSG,30 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,95Salaries,104Jobs,4.3★,1TReviews
+779,Indiabulls,12 office locations,10000+ Employees,Banking & Lending,230Salaries,--Jobs,3.3★,930Reviews
+780,XYZ Tech,"New York, NY",51 to 200 Employees,Machinery Manufacturing,463Salaries,--Jobs,3.9★,707Reviews
+781,Bentley Systems,17 office locations,1001 to 5000 Employees,Computer Hardware Development,116Salaries,185Jobs,3.9★,1.1TReviews
+782,Sam's Club,15 office locations,10000+ Employees,General Merchandise & Superstores,43Salaries,9.8TJobs,3.3★,10.2TReviews
+783,AkzoNobel,29 office locations,10000+ Employees,Consumer Product Manufacturing,43Salaries,256Jobs,3.9★,2.1TReviews
+784,Commvault,14 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,166Salaries,3Jobs,3.6★,920Reviews
+785,"Sun Pharmaceutical Industries, Inc.",5 office locations,10000+ Employees,Biotech & Pharmaceuticals,137Salaries,267Jobs,3.7★,977Reviews
+786,Defence Research & Development Organisation,"Headquarters in New Delhi, India",5001 to 10000 Employees,National Services & Agencies,120Salaries,1Jobs,4.3★,977Reviews
+787,American Automobile Association (AAA),38 office locations,501 to 1000 Employees,Taxi & Car Services,87Salaries,496Jobs,3.5★,3.1TReviews
+788,Altair Engineering,23 office locations,1001 to 5000 Employees,Computer Hardware Development,204Salaries,862Jobs,4.2★,765Reviews
+789,Booking.com,25 office locations,10000+ Employees,Internet & Web Services,33Salaries,393Jobs,3.9★,6.6TReviews
+790,Stefanini,27 office locations,10000+ Employees,Information Technology Support Services,19Salaries,1.4TJobs,3.7★,5.4TReviews
+791,Nityo Infotech,3 office locations,5001 to 10000 Employees,Information Technology Support Services,116Salaries,156Jobs,3.6★,1.1TReviews
+792,Mercedes-Benz International,3 office locations,10000+ Employees,Motor Vehicle Dealers,48Salaries,128Jobs,3.9★,3.4TReviews
+793,ltcc,N/A,501 to 1000 Employees,Construction,211Salaries,4Jobs,3.6★,716Reviews
+794,XYZ,"San Francisco, CA",51 to 200 Employees,Advertising & Public Relations,433Salaries,1Jobs,3.8★,619Reviews
+795,STL - Sterlite Technologies Limited,13 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,209Salaries,17Jobs,3.9★,764Reviews
+796,ACI Worldwide,28 office locations,1001 to 5000 Employees,Computer Hardware Development,155Salaries,137Jobs,3.7★,1.2TReviews
+797,Appen,25 office locations,1001 to 5000 Employees,Business Consulting,15Salaries,34Jobs,3.7★,4.5TReviews
+798,Gap Inc.,"Headquarters in San Francisco, CA",10000+ Employees,"Department, Clothing & Shoe Stores",93Salaries,1.9TJobs,3.7★,2.2TReviews
+799,emids,2 office locations,1001 to 5000 Employees,Information Technology Support Services,227Salaries,167Jobs,3.9★,697Reviews
+800,Icertis,2 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,174Salaries,--Jobs,4.2★,653Reviews
+801,Insight Global,64 office locations,1001 to 5000 Employees,HR Consulting,41Salaries,4.4TJobs,3.9★,10.5TReviews
+802,Softtek,2 office locations,10000+ Employees,Information Technology Support Services,97Salaries,63Jobs,4.0★,2.4TReviews
+803,LivSpace,"Headquarters in Singapore, Singapore",1001 to 5000 Employees,Home Furniture & Housewares Stores,169Salaries,19Jobs,3.7★,770Reviews
+804,Teach For India,6 office locations,201 to 500 Employees,Education Support & Training Services,184Salaries,34Jobs,3.9★,697Reviews
+805,Mr. Cooper,3 office locations,5001 to 10000 Employees,Banking & Lending,109Salaries,115Jobs,3.5★,1.2TReviews
+806,Globeop Financial Services,6 office locations,1001 to 5000 Employees,Investment & Asset Management,452Salaries,--Jobs,3.2★,825Reviews
+807,Citicapital Commercial Corp,25 office locations,1001 to 5000 Employees,Banking & Lending,102Salaries,24Jobs,3.9★,1.9TReviews
+808,Landmark Group,"Headquarters in Dubai, United Arab Emirates",10000+ Employees,"Department, Clothing & Shoe Stores",148Salaries,112Jobs,3.9★,1.3TReviews
+809,LatentView Analytics,8 office locations,501 to 1000 Employees,Business Consulting,586Salaries,95Jobs,4.1★,546Reviews
+810,Sophos,12 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,85Salaries,55Jobs,4.0★,1.1TReviews
+811,Victoria's Secret,"Reynoldsburg, OH",10000+ Employees,"Department, Clothing & Shoe Stores",22Salaries,2.5TJobs,3.5★,10.8TReviews
+812,SGS,26 office locations,10000+ Employees,Business Consulting,41Salaries,2.8TJobs,3.4★,3.2TReviews
+813,Trianz,4 office locations,1001 to 5000 Employees,Information Technology Support Services,176Salaries,18Jobs,4.3★,692Reviews
+814,The Smart Cube,3 office locations,501 to 1000 Employees,Business Consulting,486Salaries,40Jobs,4.0★,579Reviews
+815,TVS Motor Company,4 office locations,1001 to 5000 Employees,Transportation Equipment Manufacturing,278Salaries,251Jobs,3.9★,732Reviews
+816,US Army,42 office locations,10000+ Employees,National Services & Agencies,9Salaries,1.4TJobs,3.8★,39.1TReviews
+817,Synechron,19 office locations,10000+ Employees,Information Technology Support Services,700Salaries,107Jobs,4.3★,3.3TReviews
+818,Randstad US,25 office locations,5001 to 10000 Employees,HR Consulting,21Salaries,175Jobs,3.8★,4.8TReviews
+819,Indus Valley Partners,8 office locations,501 to 1000 Employees,Information Technology Support Services,332Salaries,24Jobs,3.2★,448Reviews
+820,Bsnl,"Headquarters in New Delhi, India",10000+ Employees,Telecommunications Services,122Salaries,--Jobs,3.9★,972Reviews
+821,Ebix,8 office locations,5001 to 10000 Employees,Information Technology Support Services,164Salaries,65Jobs,3.1★,930Reviews
+822,Huron Consulting Group,19 office locations,1001 to 5000 Employees,Business Consulting,61Salaries,325Jobs,4.2★,1.4TReviews
+823,Arcesium,5 office locations,1001 to 5000 Employees,Information Technology Support Services,483Salaries,58Jobs,4.0★,529Reviews
+824,Gojek,4 office locations,1001 to 5000 Employees,Internet & Web Services,134Salaries,851Jobs,4.4★,994Reviews
+825,GE Digital,25 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,105Salaries,221Jobs,3.7★,1.1TReviews
+826,Xebia,8 office locations,1001 to 5000 Employees,Information Technology Support Services,324Salaries,58Jobs,3.8★,720Reviews
+827,TresVista,"Mumbai, MH",501 to 1000 Employees,Research & Development,474Salaries,17Jobs,3.4★,512Reviews
+828,Rentokil PCI,"Headquarters in Mumbai, India",5001 to 10000 Employees,Building & Personnel Services,101Salaries,3Jobs,4.4★,506Reviews
+829,Deutsche Telekom,25 office locations,10000+ Employees,Telecommunications Services,87Salaries,3.8TJobs,4.1★,1.7TReviews
+830,CMC,"Headquarters in New Delhi, India",10000+ Employees,Information Technology Support Services,116Salaries,18Jobs,4.1★,787Reviews
+831,BP,25 office locations,10000+ Employees,Energy & Utilities,21Salaries,2.1TJobs,3.6★,5.7TReviews
+832,Clover Infotech,3 office locations,1001 to 5000 Employees,Information Technology Support Services,250Salaries,10Jobs,3.6★,767Reviews
+833,Directi,4 office locations,1001 to 5000 Employees,Internet & Web Services,190Salaries,6Jobs,4.2★,507Reviews
+834,Trimble,24 office locations,10000+ Employees,Computer Hardware Development,123Salaries,301Jobs,4.2★,1.1TReviews
+835,Jaguar Land Rover,15 office locations,10000+ Employees,Consumer Product Manufacturing,33Salaries,573Jobs,3.8★,3.2TReviews
+836,Mastek,5 office locations,1001 to 5000 Employees,Information Technology Support Services,265Salaries,102Jobs,3.9★,846Reviews
+837,British Airways,12 office locations,10000+ Employees,"Airlines, Airports & Air Transportation",50Salaries,94Jobs,3.4★,2.6TReviews
+838,Colliers,5 office locations,10000+ Employees,Real Estate,89Salaries,1.3TJobs,3.8★,2TReviews
+839,Magneti Marelli,5 office locations,5001 to 10000 Employees,Transportation Equipment Manufacturing,106Salaries,29Jobs,3.8★,1.3TReviews
+840,TomTom,12 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,102Salaries,87Jobs,4.1★,1.1TReviews
+841,(no)name,"Headquarters in Paris, France",1 to 50 Employees,N/A,177Salaries,--Jobs,3.9★,685Reviews
+842,American Express Global Business Travel,21 office locations,10000+ Employees,Travel Agencies,115Salaries,363Jobs,3.8★,1.5TReviews
+843,TotalEnergies,30 office locations,10000+ Employees,Energy & Utilities,49Salaries,1TJobs,3.8★,4.3TReviews
+844,Danone,25 office locations,10000+ Employees,Food & Beverage Manufacturing,24Salaries,1.1TJobs,4.0★,4.4TReviews
+845,ACS Solutions,21 office locations,10000+ Employees,Information Technology Support Services,227Salaries,37Jobs,3.9★,692Reviews
+846,TD,25 office locations,10000+ Employees,Banking & Lending,10Salaries,2.9TJobs,4.0★,17.1TReviews
+847,Current,"Headquarters in Colorado Springs, CO",Unknown,"Gift, Novelty & Souvenir Stores",227Salaries,53Jobs,4.3★,444Reviews
+848,QualityKiosk,7 office locations,1001 to 5000 Employees,Information Technology Support Services,89Salaries,25Jobs,3.8★,735Reviews
+849,Jet Airways,"Headquarters in Mumbai, India",10000+ Employees,"Airlines, Airports & Air Transportation",90Salaries,5Jobs,4.4★,818Reviews
+850,Infoview Technologies Pvt Limited,"Headquarters in Chennai, India",1001 to 5000 Employees,Enterprise Software & Network Solutions,314Salaries,1Jobs,3.2★,629Reviews
+851,National Thermal Power,"Headquarters in New Delhi, India",10000+ Employees,Energy & Utilities,270Salaries,3Jobs,4.3★,890Reviews
+852,SKF,12 office locations,10000+ Employees,Machinery Manufacturing,106Salaries,11Jobs,3.9★,1.2TReviews
+853,"DHL Global Forwarding, Freight",5 office locations,1001 to 5000 Employees,Shipping & Trucking,73Salaries,6Jobs,3.9★,1.9TReviews
+854,Lupin,2 office locations,10000+ Employees,Biotech & Pharmaceuticals,135Salaries,41Jobs,3.9★,859Reviews
+855,GS Lab,"Pune, MH",1001 to 5000 Employees,Enterprise Software & Network Solutions,443Salaries,14Jobs,4.2★,684Reviews
+856,IDC Technologies,18 office locations,1001 to 5000 Employees,Information Technology Support Services,113Salaries,129Jobs,3.7★,1TReviews
+857,PhonePe,"Phonepe Private Limited Office-2, Floor 4,5,6,7, Wing A, Block A, Salarpuria Softzone, Service Road, Green Glen Layout, Bellandur, Karnataka-KA, ",1001 to 5000 Employees,Internet & Web Services,283Salaries,183Jobs,4.3★,589Reviews
+858,Entrata India,"Wing A, Upper Ground Floor, Tower 8, SEZ, Magarpatta City, Pune, Maharashtra, India ",501 to 1000 Employees,Computer Hardware Development,164Salaries,--Jobs,4.0★,520Reviews
+859,Tiger Analytics,"Headquarters in Santa Clara, CA",1001 to 5000 Employees,Business Consulting,465Salaries,79Jobs,3.9★,522Reviews
+860,BNP Paribas Securities Services,5 office locations,1001 to 5000 Employees,Investment & Asset Management,166Salaries,7.2TJobs,3.7★,1.3TReviews
+861,State Street Syntel,"Headquarters in Mumbai, India",10000+ Employees,Information Technology Support Services,378Salaries,15Jobs,3.4★,809Reviews
+862,Pramati Technologies,5 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,138Salaries,--Jobs,4.4★,635Reviews
+863,MongoDB,12 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,36Salaries,271Jobs,4.6★,1.4TReviews
+864,Providence,26 office locations,501 to 1000 Employees,Healthcare Services & Hospitals,27Salaries,8.8TJobs,3.8★,4.8TReviews
+865,Chubb,23 office locations,10000+ Employees,Insurance Carriers,51Salaries,1.3TJobs,3.7★,2.9TReviews
+866,Carrier,21 office locations,10000+ Employees,Machinery Manufacturing,85Salaries,3.7TJobs,3.6★,1.7TReviews
+867,Hyundai Mobis,8 office locations,5001 to 10000 Employees,Transportation Equipment Manufacturing,52Salaries,138Jobs,3.5★,872Reviews
+868,CMA CGM,10 office locations,10000+ Employees,Shipping & Trucking,85Salaries,1.3TJobs,3.7★,1.3TReviews
+869,Thermax,"Headquarters in Pune, India",1001 to 5000 Employees,Machinery Manufacturing,170Salaries,1Jobs,3.9★,792Reviews
+870,Raja Software Labs,"Pune, MH",51 to 200 Employees,Information Technology Support Services,344Salaries,5Jobs,3.9★,552Reviews
+871,Sify,"Headquarters in Chennai, India",1001 to 5000 Employees,Internet & Web Services,223Salaries,19Jobs,3.6★,751Reviews
+872,Meesho,"WeWork Vaishnavi Signature, 78/9, Outer ring road, Bellandur village, Varthur Hobli, Bangalore ",501 to 1000 Employees,Internet & Web Services,190Salaries,10Jobs,3.9★,577Reviews
+873,The Emirates Group,5 office locations,10000+ Employees,"Airlines, Airports & Air Transportation",26Salaries,206Jobs,4.1★,4TReviews
+874,Elsevier,28 office locations,5001 to 10000 Employees,Publishing,42Salaries,511Jobs,4.5★,1.7TReviews
+875,Bank of Baroda,"Headquarters in Vadodara, India",10000+ Employees,Banking & Lending,250Salaries,--Jobs,3.7★,738Reviews
+876,Whatfix,7 office locations,501 to 1000 Employees,Internet & Web Services,97Salaries,54Jobs,4.1★,335Reviews
+877,Signify,9 office locations,10000+ Employees,Consumer Product Manufacturing,77Salaries,751Jobs,3.8★,1.2TReviews
+878,Allstate India,2 office locations,5001 to 10000 Employees,Information Technology Support Services,387Salaries,1.7TJobs,4.1★,726Reviews
+879,SAIC,48 office locations,10000+ Employees,Information Technology Support Services,47Salaries,1.6TJobs,4.1★,3.8TReviews
+880,Stanley Black & Decker,31 office locations,10000+ Employees,Machinery Manufacturing,19Salaries,900Jobs,3.5★,3.1TReviews
+881,Automation Anywhere,7 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,54Salaries,50Jobs,4.1★,813Reviews
+882,PowerSchool Group,8 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,83Salaries,91Jobs,4.2★,783Reviews
+883,Intelliswift,2 office locations,1001 to 5000 Employees,Software Development,102Salaries,39Jobs,4.3★,537Reviews
+884,Cuelearn,"Bangalore, KA",1001 to 5000 Employees,Primary & Secondary Schools,213Salaries,--Jobs,4.4★,893Reviews
+885,Ricoh,32 office locations,10000+ Employees,Information Technology Support Services,28Salaries,1.1TJobs,3.3★,4.5TReviews
+886,Nihilent,10 office locations,1001 to 5000 Employees,Information Technology Support Services,297Salaries,33Jobs,3.7★,789Reviews
+887,Evelyn,2 office locations,501 to 1000 Employees,Education Support & Training Services,55Salaries,--Jobs,4.1★,614Reviews
+888,Koch Industries,"Headquarters in Wichita, KS",1001 to 5000 Employees,Energy & Utilities,65Salaries,487Jobs,3.9★,1.4TReviews
+889,Orion Innovation,9 office locations,5001 to 10000 Employees,Information Technology Support Services,210Salaries,82Jobs,3.8★,614Reviews
+890,Kraft Heinz Company,41 office locations,10000+ Employees,Food & Beverage Manufacturing,24Salaries,808Jobs,3.5★,5.6TReviews
+891,Blinkit,4 office locations,1001 to 5000 Employees,Internet & Web Services,243Salaries,--Jobs,3.8★,616Reviews
+892,Advance Auto Parts,15 office locations,10000+ Employees,Automotive Parts & Accessories Stores,35Salaries,9.9TJobs,3.3★,4.2TReviews
+893,Nissan,25 office locations,10000+ Employees,Transportation Equipment Manufacturing,55Salaries,3.7TJobs,3.9★,2.7TReviews
+894,AIESEC,"Headquarters in Montreal, Canada",501 to 1000 Employees,Grantmaking & Charitable Foundations,29Salaries,--Jobs,4.5★,2.5TReviews
+895,Amity University,4 office locations,1001 to 5000 Employees,Colleges & Universities,325Salaries,90Jobs,3.6★,765Reviews
+896,Sungard Availability Services,15 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,88Salaries,15Jobs,3.4★,1.2TReviews
+897,Tracxn,"Bangalore, KA",501 to 1000 Employees,Internet & Web Services,190Salaries,13Jobs,3.5★,515Reviews
+898,RBC,33 office locations,10000+ Employees,Banking & Lending,15Salaries,1.8TJobs,4.1★,12.4TReviews
+899,"Ryan, LLC",71 office locations,1001 to 5000 Employees,Accounting & Tax,38Salaries,215Jobs,4.3★,1.5TReviews
+900,Tangoe,7 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,126Salaries,17Jobs,3.3★,980Reviews
+901,Kohler Co.,15 office locations,10000+ Employees,Consumer Product Manufacturing,63Salaries,514Jobs,3.7★,1.4TReviews
+902,The World Bank,10 office locations,10000+ Employees,Banking & Lending,38Salaries,94Jobs,4.2★,2.7TReviews
+903,Majesco,"Headquarters in Morristown, NJ",1001 to 5000 Employees,Computer Hardware Development,268Salaries,52Jobs,3.4★,668Reviews
+904,Kimberly-Clark,25 office locations,10000+ Employees,Consumer Product Manufacturing,27Salaries,1.6TJobs,4.1★,3.7TReviews
+905,Cotiviti,14 office locations,5001 to 10000 Employees,Information Technology Support Services,63Salaries,13Jobs,4.1★,981Reviews
+906,Moody's Corporation,10 office locations,10000+ Employees,Research & Development,71Salaries,1.4TJobs,3.7★,1.4TReviews
+907,SoftwareONE,17 office locations,1001 to 5000 Employees,Information Technology Support Services,105Salaries,593Jobs,4.0★,1TReviews
+908,Graduate Student,"Headquarters in Alexandria, Egypt",Unknown,N/A,190Salaries,--Jobs,4.2★,471Reviews
+909,Federal Bank,"Headquarters in Aluva, India",10000+ Employees,Banking & Lending,323Salaries,--Jobs,4.1★,623Reviews
+910,Experis India,"Block GP, Plot J-3, Sector V, Bidhannagar, Kolkata, West Bengal ",501 to 1000 Employees,HR Consulting,101Salaries,1.8LJobs,3.1★,951Reviews
+911,Sky,24 office locations,10000+ Employees,Broadcast Media,26Salaries,1.5TJobs,3.9★,4.5TReviews
+912,LSEG (London Stock Exchange Group),13 office locations,10000+ Employees,Stock Exchanges,81Salaries,1.8TJobs,3.9★,1.2TReviews
+913,Intelenet,10 office locations,10000+ Employees,Advertising & Public Relations,184Salaries,--Jobs,3.8★,823Reviews
+914,Aristocrat Technologies,9 office locations,1001 to 5000 Employees,Computer Hardware Development,116Salaries,525Jobs,4.1★,788Reviews
+915,Nordstrom,"1700 7th Ave., Ste. 1500,  Seattle WA 98101 ",10000+ Employees,"Department, Clothing & Shoe Stores",16Salaries,3.6TJobs,3.7★,21TReviews
+916,Attra,2 office locations,1001 to 5000 Employees,Information Technology Support Services,271Salaries,27Jobs,3.8★,580Reviews
+917,CNH Industrial,24 office locations,10000+ Employees,Machinery Manufacturing,45Salaries,857Jobs,3.9★,2.4TReviews
+918,iPlace,4 office locations,501 to 1000 Employees,HR Consulting,82Salaries,12Jobs,4.1★,778Reviews
+919,GLG,12 office locations,1001 to 5000 Employees,Membership Organisations,79Salaries,131Jobs,3.6★,1.5TReviews
+920,Shopee,7 office locations,5001 to 10000 Employees,Internet & Web Services,33Salaries,970Jobs,3.8★,5.8TReviews
+921,Cornerstone OnDemand,8 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,56Salaries,296Jobs,3.9★,1.4TReviews
+922,Verifone,20 office locations,5001 to 10000 Employees,Computer Hardware Development,128Salaries,275Jobs,3.3★,1.1TReviews
+923,Schaeffler,14 office locations,10000+ Employees,Machinery Manufacturing,33Salaries,398Jobs,3.8★,1.8TReviews
+924,KBR,31 office locations,10000+ Employees,Aerospace & Defence,21Salaries,1.9TJobs,3.9★,2.5TReviews
+925,LG Soft India,"Headquarters in Bangalore, India",1001 to 5000 Employees,Information Technology Support Services,298Salaries,3Jobs,3.5★,632Reviews
+926,Titan Company,"Headquarters in Bangalore, India",5001 to 10000 Employees,Consumer Product Manufacturing,246Salaries,7Jobs,4.3★,693Reviews
+927,Teva Pharmaceuticals,12 office locations,10000+ Employees,Biotech & Pharmaceuticals,32Salaries,692Jobs,3.7★,2.2TReviews
+928,Raytheon Technologies,25 office locations,10000+ Employees,Aerospace & Defence,25Salaries,85Jobs,3.8★,7TReviews
+929,Bombardier,27 office locations,10000+ Employees,Aerospace & Defence,51Salaries,673Jobs,3.7★,3.6TReviews
+930,Landis+Gyr,9 office locations,5001 to 10000 Employees,Electronics Manufacturing,123Salaries,405Jobs,3.8★,924Reviews
+931,Sapiens,38 office locations,5001 to 10000 Employees,Enterprise Software & Network Solutions,227Salaries,212Jobs,3.7★,706Reviews
+932,British Council,9 office locations,5001 to 10000 Employees,"Civic, Welfare & Social Services",38Salaries,167Jobs,3.8★,2.1TReviews
+933,Schindler,22 office locations,1001 to 5000 Employees,Architectural & Engineering Services,86Salaries,930Jobs,3.7★,1.3TReviews
+934,Angel One,"Headquarters in Mumbai, India",1001 to 5000 Employees,Investment & Asset Management,189Salaries,52Jobs,4.2★,747Reviews
+935,ICF,25 office locations,5001 to 10000 Employees,Business Consulting,60Salaries,609Jobs,3.7★,2TReviews
+936,F5,17 office locations,5001 to 10000 Employees,Computer Hardware Development,42Salaries,231Jobs,4.2★,1.5TReviews
+937,Quinnox,5 office locations,1001 to 5000 Employees,Information Technology Support Services,252Salaries,18Jobs,3.7★,560Reviews
+938,Quest Diagnostics,31 office locations,10000+ Employees,Healthcare Services & Hospitals,26Salaries,4.7TJobs,3.6★,4.4TReviews
+939,iQor,27 office locations,10000+ Employees,HR Consulting,23Salaries,66Jobs,3.4★,2.3TReviews
+940,Alcon,19 office locations,10000+ Employees,Biotech & Pharmaceuticals,24Salaries,576Jobs,3.9★,2.2TReviews
+941,GeBBS Healthcare Solutions,"Los Angeles, CA",10000+ Employees,Healthcare Services & Hospitals,124Salaries,20Jobs,4.0★,768Reviews
+942,Not Listed,"Headquarters in Toronto, Canada",51 to 200 Employees,N/A,145Salaries,--Jobs,3.8★,588Reviews
+943,Arrow Electronics,26 office locations,10000+ Employees,Electronics Manufacturing,20Salaries,1.7TJobs,3.5★,2.2TReviews
+944,Goodyear,"Headquarters in Akron, OH",10000+ Employees,Machinery Manufacturing,40Salaries,2.6TJobs,3.8★,2.3TReviews
+945,Ramboll,8 office locations,10000+ Employees,Construction,104Salaries,1.6TJobs,4.0★,955Reviews
+946,NSEIT,5 office locations,1001 to 5000 Employees,Information Technology Support Services,169Salaries,45Jobs,3.5★,645Reviews
+947,Amelia,9 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,32Salaries,33Jobs,3.2★,933Reviews
+948,US Air Force,40 office locations,10000+ Employees,National Services & Agencies,9Salaries,760Jobs,4.1★,24.3TReviews
+949,Fragomen,19 office locations,1001 to 5000 Employees,Law Firms,53Salaries,195Jobs,3.7★,1.6TReviews
+950,Varian Medical Systems,21 office locations,5001 to 10000 Employees,Biotech & Pharmaceuticals,59Salaries,326Jobs,4.0★,1.1TReviews
+951,Guardian Life,19 office locations,5001 to 10000 Employees,Insurance Carriers,106Salaries,216Jobs,3.8★,1.2TReviews
+952,Securitas,28 office locations,10000+ Employees,Security & Protective,10Salaries,9TJobs,3.2★,5.4TReviews
+953,NHS,34 office locations,10000+ Employees,Insurance Carriers,13Salaries,14.2TJobs,3.8★,9.5TReviews
+954,JK Tech,8 office locations,1001 to 5000 Employees,Information Technology Support Services,237Salaries,40Jobs,4.0★,528Reviews
+955,Condé Nast,14 office locations,1001 to 5000 Employees,Publishing,61Salaries,115Jobs,3.7★,1.6TReviews
+956,Unknowns,"Headquarters in Paris, France",1 to 50 Employees,N/A,119Salaries,--Jobs,3.8★,599Reviews
+957,Hudson's Bay Company,2 office locations,10000+ Employees,"Department, Clothing & Shoe Stores",46Salaries,294Jobs,3.5★,2.6TReviews
+958,Equifax,34 office locations,10000+ Employees,Research & Development,69Salaries,313Jobs,3.8★,2.4TReviews
+959,People Tech Group,6 office locations,1001 to 5000 Employees,Information Technology Support Services,108Salaries,--Jobs,3.4★,586Reviews
+960,Compass Group,6 office locations,10000+ Employees,Catering & Food Service Contractors,23Salaries,11.1TJobs,3.5★,4.1TReviews
+961,Crowe,25 office locations,1001 to 5000 Employees,Accounting & Tax,29Salaries,2.8TJobs,3.9★,2.5TReviews
+962,EFI,10 office locations,1001 to 5000 Employees,Computer Hardware Development,137Salaries,152Jobs,3.5★,851Reviews
+963,Aker Solutions,18 office locations,10000+ Employees,Energy & Utilities,49Salaries,11Jobs,4.1★,1.4TReviews
+964,Herbalife,4 office locations,5001 to 10000 Employees,Beauty & Wellness,58Salaries,112Jobs,4.1★,1.8TReviews
+965,Tetra Pak,25 office locations,10000+ Employees,Machinery Manufacturing,55Salaries,284Jobs,4.2★,1.7TReviews
+966,Acuity Knowledge Partners,8 office locations,1001 to 5000 Employees,Research & Development,389Salaries,121Jobs,3.7★,673Reviews
+967,Jabil,37 office locations,10000+ Employees,Electronics Manufacturing,8Salaries,2.9TJobs,3.8★,3.1TReviews
+968,Etech,8 office locations,1001 to 5000 Employees,HR Consulting,129Salaries,87Jobs,3.8★,668Reviews
+969,Zebra Technologies,22 office locations,5001 to 10000 Employees,Computer Hardware Development,89Salaries,453Jobs,4.0★,1.3TReviews
+970,State Farm,28 office locations,10000+ Employees,Insurance Carriers,14Salaries,23.5TJobs,3.7★,15.4TReviews
+971,Intertek,25 office locations,10000+ Employees,Research & Development,37Salaries,16Jobs,3.1★,2.1TReviews
+972,Mindfire Solutions,"Bhubaneshwar, OR",51 to 200 Employees,Computer Hardware Development,387Salaries,31Jobs,4.3★,575Reviews
+973,Cloudera,37 office locations,1001 to 5000 Employees,Enterprise Software & Network Solutions,40Salaries,80Jobs,4.2★,833Reviews
+974,Lodha,3 office locations,1001 to 5000 Employees,Real Estate,145Salaries,--Jobs,4.5★,777Reviews
+975,Shriram Transport Finance,"Headquarters in Mumbai, India",10000+ Employees,Banking & Lending,262Salaries,3Jobs,3.5★,627Reviews
+976,Jade Global,4 office locations,501 to 1000 Employees,Information Technology Support Services,84Salaries,140Jobs,4.2★,609Reviews
+977,Dentsu International,26 office locations,5001 to 10000 Employees,Advertising & Public Relations,63Salaries,728Jobs,3.5★,1.6TReviews
+978,Saama Technologies,9 office locations,1001 to 5000 Employees,Biotech & Pharmaceuticals,204Salaries,19Jobs,4.1★,548Reviews
+979,Xavient,10 office locations,1001 to 5000 Employees,Information Technology Support Services,118Salaries,--Jobs,3.5★,497Reviews
+980,Tata AIG General Insurance,"Headquarters in Mumbai, India",1001 to 5000 Employees,Insurance Carriers,235Salaries,--Jobs,3.6★,643Reviews
+981,Wns Global Services,"Headquarters in Gurgaon, India",10000+ Employees,N/A,322Salaries,--Jobs,3.6★,665Reviews
+982,Hotstar,3 office locations,501 to 1000 Employees,Internet & Web Services,103Salaries,59Jobs,3.4★,311Reviews
+983,Red Bull,27 office locations,10000+ Employees,Food & Beverage Manufacturing,18Salaries,2TJobs,4.3★,3.1TReviews
+984,Advanced,10 office locations,1001 to 5000 Employees,Information Technology Support Services,97Salaries,305Jobs,3.6★,952Reviews
+985,OPPO,"Headquarters in Gurgaon, India",1001 to 5000 Employees,N/A,161Salaries,45Jobs,3.4★,858Reviews
+986,Robert Half,25 office locations,10000+ Employees,HR Consulting,24Salaries,20.6TJobs,4.0★,11.3TReviews

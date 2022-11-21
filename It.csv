@@ -1,0 +1,300 @@
+,Company,Sector,Headquater,Types,Rating,Reviews
+0,ICICI Bank,Public,"Mumbai,Maharashtra + 1038 more",Financial Services,4.0,34.9k Reviews
+1,HDFC Bank,Public,"Mumbai,Maharashtra + 1212 more",Financial Services,4.0,39.8k Reviews
+2,HDB Financial Se...,None,"Ahmedabad,Gujrat + 773 more",Financial Services,4.0,13.4k Reviews
+3,Larsen & Toubro ...,Public,"Mumbai,Maharashtra + 523 more",Industrial Machinery,4.1,24.8k Reviews
+4,Kotak Mahindra B...,Public,"Mumbai,Maharashtra + 470 more",Financial Services,3.9,13.7k Reviews
+5,Axis Bank,Public,"Mumbai,Maharashtra + 1069 more",Financial Services,3.9,19.1k Reviews
+6,Karma Ayurveda,None,None,Healthcare,4.6,668 Reviews
+7,Vodafone Idea,Public,"Gandhinagar,Gujrat + 561 more",Telecom,4.2,13.9k Reviews
+8,Max Healthcare,None,"Delhi/NCR,New Delhi + 51 more",Healthcare,4.1,1.7k Reviews
+9,TCS,Public,"Mumbai,Maharashtra + 275 more",BPO,3.9,49.6k Reviews
+10,XcelServ Solutio...,None,"Las Vegas,Nevada + 33 more",IT Services & Consulting,4.7,805 Reviews
+11,Mankind Pharma,None,"New Delhi,Delhi + 149 more",Manufacturing,4.2,1.8k Reviews
+12,Yes Bank,Public,"Mumbai,Maharashtra + 356 more",Financial Services,4.0,4.6k Reviews
+13,Apollo Hospitals,Public,"San Francisco,California + 164 more",Healthcare,4.1,5.5k Reviews
+14,Indian Air Force,None,"New Delhi,Delhi + 98 more",Defence & Aerospace,4.6,2k Reviews
+15,Reliance jio,Public,"Navi Mumbai,Maharashtra + 962 more",Telecom,4.0,15k Reviews
+16,IndusInd Bank,Public,"Gurgaon/Gurugram,Haryana + 553 more",Financial Services,3.8,6.8k Reviews
+17,Indian Army,Public,"New Delhi,Delhi + 269 more",Defence & Aerospace,4.7,4.2k Reviews
+18,Amazon,Public,"Seattle,Washington + 384 more",Internet,4.3,18.2k Reviews
+19,Shapoorji Pallon...,None,"Mumbai,Maharashtra + 137 more",Power,4.3,6.8k Reviews
+20,Wipro,Public,"Bangalore/Bengaluru,Karnataka + 231 more",IT Services & Consulting,3.9,28.6k Reviews
+21,Bharti Airtel,Public,"Gurgaon/Gurugram,Haryana + 509 more",Telecom,4.1,12.9k Reviews
+22,Relaxo Footwear,Public,"New Delhi,Delhi + 96 more",Fashion & Textile,4.1,903 Reviews
+23,IDFC FIRST Bank,Public,"Mumbai,Maharashtra + 390 more",Financial Services,4.0,5.2k Reviews
+24,Reliance Retail,None,"Navi Mumbai,Maharashtra + 640 more",Jewellery,4.1,15.6k Reviews
+25,Akal Information...,None,"Delhi/NCR,New Delhi + 23 more",IT Services & Consulting,4.3,399 Reviews
+26,NatWest Group,None,Gurgaon/Gurugram + 18 more,Financial Services,4.1,2.2k Reviews
+27,Bses Rajdhani Po...,None,"Delhi/NCR,New Delhi + 5 more",Power,3.8,652 Reviews
+28,EaseMyTrip.com,Public,"Delhi,NCT + 6 more",Internet,4.4,335 Reviews
+29,McDonald's,None,"Chicago,Illinois + 122 more",Retail,4.3,2k Reviews
+30,Chegg,None,"Santa Clara,California + 54 more",Internet,4.4,858 Reviews
+31,Aakash Institute,None,"New Delhi,Delhi + 141 more",Education & Training,3.7,1.9k Reviews
+32,Tata Motors,Public,"Pune,Maharashtra + 390 more",Automobile,4.1,12.5k Reviews
+33,Intex Technologi...,Public,"Delhi/NCR,New Delhi + 71 more",Consumer goods,3.9,778 Reviews
+34,GMR Group,Public,"Delhi/NCR,New Delhi + 47 more",Power,4.2,1.7k Reviews
+35,Jindal X,Public,"New Delhi,Delhi + 11 more",BPO/KPO,3.2,648 Reviews
+36,ICICI Prudential...,Public,"Mumbai,Maharashtra + 398 more",Financial Services,4.1,4.5k Reviews
+37,Maruti Suzuki,Public,"New Delhi,Delhi + 374 more",Automobile,4.1,6k Reviews
+38,Mother Dairy Fru...,None,"Noida,Uttar Pradesh + 95 more",FMCG,4.2,1k Reviews
+39,Flipkart,Public,"Bangalore,Karnataka + 435 more",Internet,4.2,11.5k Reviews
+40,V2 Retail,Public,"Delhi/NCR,Delhi + 71 more",Retail,3.6,1k Reviews
+41,Team Computers,None,"Delhi/NCR,Delhi + 64 more",IT Services & Consulting,3.7,832 Reviews
+42,Air India Sats A...,None,"Mumbai,Maharashtra + 20 more",Airlines / Aviation / Aerospace,3.9,544 Reviews
+43,Oberoi Group of ...,None,"Delhi/NCR,Delhi + 31 more",Travel & Tourism / Hospitality,4.3,1.2k Reviews
+44,Hero FinCorp,None,Delhi + 226 more,Financial Services,4.3,926 Reviews
+45,Radisson Hotels,None,"Minnetonka,Minnesota + 89 more",Travel & Tourism / Hospitality,3.9,1.7k Reviews
+46,Simplex Infrastr...,Public,"Kolkata,West Bengal + 124 more",Metals & Mining,3.7,2.3k Reviews
+47,IndiGo,None,"Boston,Massachusetts + 71 more",Airlines / Aviation / Aerospace,3.5,1.7k Reviews
+48,Bikanervala,None,"Delhi/NCR,New Delhi + 39 more",FMCG,4.0,422 Reviews
+49,Vfs Global Servi...,None,"Mumbai,Maharashtra + 22 more",BPO/KPO,3.8,852 Reviews
+50,Tata Power Delhi...,None,"New Delhi,Delhi + 29 more",Power,4.1,379 Reviews
+51,HDFC Life,Public,"Mumbai,Maharashtra + 405 more",Financial Services,4.1,5.6k Reviews
+52,Sony,Public,"Delhi/NCR,Delhi + 115 more",Manufacturing,4.3,1.1k Reviews
+53,Dominos Pizza,Public,"Ypsilanti,Michigan + 208 more",FMCG,4.1,2.4k Reviews
+54,Dr Lal PathLabs,Public,"Gurgaon/Gurugram,Haryana + 122 more",Healthcare,4.2,1.1k Reviews
+55,Blue Dart Expres...,Public,"Mumbai,Maharashtra + 191 more",Logistics / Shipping,4.2,1.7k Reviews
+56,Asian Paints,Public,"Mumbai,Maharashtra + 341 more",Chemicals / Agri Inputs,4.2,4.8k Reviews
+57,café Coffee day,None,"Bengaluru,Karnataka + 81 more",Beverage,4.1,1.3k Reviews
+58,L&T Construction,Public,Chennai + 264 more,Engineering & Construction,4.2,3.6k Reviews
+59,BLK Super Specia...,None,"Delhi/NCR,New Delhi + 3 more",Healthcare,4.1,272 Reviews
+60,Silaris Informat...,None,"Delhi/NCR,Delhi + 15 more",Consulting,3.3,381 Reviews
+61,Gannon Dunkerley,None,"Mumbai,Maharashtra + 55 more",Engineering & Construction,3.9,832 Reviews
+62,Fabindia,None,"Delhi/NCR,Delhi + 71 more",Retail,4.1,857 Reviews
+63,DTDC Express,None,"Bangalore/Bengaluru,Karnataka + 188 more",Logistics / Shipping,3.9,2k Reviews
+64,Quess,Public,Bangalore + 333 more,BPO/KPO,3.9,9k Reviews
+65,Muthoot Group,Public,"Wedel,Schleswig-holstein + 329 more",Internet,3.6,4.7k Reviews
+66,Omaxe,Public,"Delhi/NCR,New Delhi + 20 more",Real Estate,4.0,453 Reviews
+67,Bajaj Finserv,Public,"Pune,Maharashtra + 656 more",FinTech,4.0,5.3k Reviews
+68,Oyo Rooms,None,"Gurgaon,Haryana + 103 more",Internet,3.5,3.2k Reviews
+69,Tradeindia.com,None,"Noida,Uttar Pradesh + 34 more",Internet,3.4,541 Reviews
+70,Engineers India,Public,"Delhi/NCR,New Delhi + 45 more",Internet,4.3,442 Reviews
+71,SunTec Web Servi...,None,New Delhi + 2 more,BPO/KPO,3.5,245 Reviews
+72,Max Bupa Health ...,None,"Delhi/NCR,New Delhi + 116 more",Financial Services,3.8,770 Reviews
+73,Tata Communicati...,Public,"Mumbai,Maharashtra + 88 more",Telecom,4.1,3.2k Reviews
+74,ICICI Lombard Ge...,Public,"Mumbai,Maharashtra + 201 more",Financial Services,3.9,2.4k Reviews
+75,Bses Yamuna Powe...,None,20 years old,Power,3.7,203 Reviews
+76,Jet Airways,Public,"Mumbai,Maharashtra + 46 more",Airlines / Aviation / Aerospace,4.6,1.1k Reviews
+77,BYJU'S,None,"Bangalore,Karnataka + 195 more",Internet,3.5,11.8k Reviews
+78,Indian Oil Corpo...,None,"Delhi/NCR,Delhi + 185 more",Power,4.3,2.1k Reviews
+79,Grass Roots Rese...,None,51-200 Employees (India),Management Consulting,5.0,217 Reviews
+80,Safexpress,None,"Delhi/NCR,Delhi + 111 more",Logistics / Shipping,4.2,1.1k Reviews
+81,Genpact,Public,"New York,New York + 66 more",IT Services & Consulting,4.0,21k Reviews
+82,Shoppers Stop,Public,"Mumbai,Maharashtra + 56 more",Retail,4.3,2k Reviews
+83,IIFL,Public,"Mumbai,Maharashtra + 483 more",Financial Services,3.9,3.6k Reviews
+84,Ahluwalia Contra...,Public,"Delhi/NCR,New Delhi + 31 more",Engineering & Construction,3.8,516 Reviews
+85,Hyatt Regency,None,"New Delhi,Delhi + 37 more",Travel & Tourism / Hospitality,4.3,1.1k Reviews
+86,KEI Industries,Public,"Delhi/NCR,Delhi + 61 more",Manufacturing,4.1,576 Reviews
+87,FIITJEE,None,"Delhi,NCT + 42 more",Education & Training,3.7,426 Reviews
+88,Okaya Power,None,"Delhi/NCR,Delhi + 57 more",Consumer goods,3.7,329 Reviews
+89,Randstad,None,"Chennai,Tamil Nadu + 203 more",Recruitment,4.1,2.1k Reviews
+90,Aditya Birla Fas...,None,Mumbai + 197 more,Fashion & Textile,4.2,3.3k Reviews
+91,Abbott Healthcar...,Public,"Illinois City,Illinois + 146 more",Healthcare / Pharma,4.1,4.3k Reviews
+92,Godfrey Phillips...,Public,"Delhi/NCR,New Delhi + 67 more",FMCG,4.2,524 Reviews
+93,Muthoot Finance,Public,"Kochi/Cochin,Kerala + 412 more",NBFC,3.6,2.2k Reviews
+94,Renovision Autom...,None,New Delhi + 57 more,Recruitment,3.6,388 Reviews
+95,Udaan,None,"Bangalore,Karnataka + 304 more",Consumer goods,4.1,4.3k Reviews
+96,Max Life Insuran...,None,"Gurgaon/Gurugram,Haryana + 295 more",Consumer goods,4.2,3.2k Reviews
+97,Future Group,None,"Mumbai,Maharashtra + 196 more",FMCG,4.2,10.3k Reviews
+98,OM Logistics,None,"Delhi/NCR,Delhi + 85 more",Financial Services,4.1,621 Reviews
+99,I Process Servic...,None,"Mumbai,Maharashtra + 219 more",Recruitment,4.0,1.5k Reviews
+100,Centum Learning,None,"Delhi/NCR,New Delhi + 65 more",Education & Training,3.8,409 Reviews
+101,Pidilite Industr...,Public,"Mumbai,Maharashtra + 179 more",Consumer goods,4.3,2.1k Reviews
+102,Gati kwe,None,"Hyderabad/Secunderabad,Telangana + 144 more",Logistics / Shipping,4.2,2k Reviews
+103,Fena,None,"Delhi/NCR,Delhi + 53 more",FMCG,4.2,315 Reviews
+104,Sysnet Global Te...,None,"Delhi/NCR,Delhi + 93 more",IT Services & Consulting,3.7,802 Reviews
+105,Reliance Communi...,Public,"Navi Mumbai,Maharashtra + 368 more",Telecom,4.0,4.1k Reviews
+106,Reliance Industr...,Public,"Navi Mumbai,Maharashtra + 482 more",Manufacturing,4.1,43.8k Reviews
+107,RBL Bank,Public,"Mumbai,Maharashtra + 179 more",Banking,3.8,1.7k Reviews
+108,AIIMS,None,66 years old,Education & Training,4.1,449 Reviews
+109,Weblink In,None,"New Delhi,Delhi + 4 more",Internet,4.0,189 Reviews
+110,Axis Direct,None,"San Mateo,California + 265 more",Financial Services,4.0,2.4k Reviews
+111,JK Tyres,None,New Delhi + 108 more,Automobile,3.9,1.3k Reviews
+112,Asia-Pacific Ins...,None,"Delhi/NCR,Delhi + 5 more",Education & Training,4.5,158 Reviews
+113,Indraprastha Gas,Public,"Mumbai,Maharashtra + 14 more",Internet,4.0,258 Reviews
+114,Wipro BPS,None,22 years old,BPO/KPO,3.8,3k Reviews
+115,BVG India,None,"Pune,Maharashtra + 74 more",Internet,3.9,751 Reviews
+116,State Bank of In...,None,216 years old,Financial Services,3.8,5k Reviews
+117,Team Lease,Public,"Bangalore/Bengaluru,Karnataka + 204 more",Recruitment,4.0,1.8k Reviews
+118,FedEx Express,None,Moon Township + 87 more,Logistics / Shipping,4.3,1.2k Reviews
+119,Celebi Delhi Car...,None,64 years old,Airlines / Aviation / Aerospace,4.2,178 Reviews
+120,CARS24,None,"Gurgaon,Haryana + 131 more",Internet,3.7,1.9k Reviews
+121,ITC Hotels,Public,"Kolkata,West Bengal + 66 more",Travel & Tourism / Hospitality,4.0,1.1k Reviews
+122,MeritNation,None,"Delhi,NCT + 20 more",Internet,3.4,239 Reviews
+123,Standard Charter...,None,London + 57 more,Financial Services,4.2,5.7k Reviews
+124,Jindal Saw,Public,"Delhi/NCR,New Delhi + 41 more",Iron & Steel,4.1,842 Reviews
+125,Titan Company,Public,"Mumbai,Maharashtra + 124 more",Consumer goods,4.4,2.6k Reviews
+126,Delhi Duty Free ...,None,"Delhi/NCR,New Delhi + 5 more",Food Processing,4.2,183 Reviews
+127,Quality Austria ...,None,"Delhi/NCR,Delhi + 34 more",Education & Training,3.4,371 Reviews
+128,Voltas,Public,"Mumbai,Maharashtra + 139 more",Industrial Machinery,4.1,1.6k Reviews
+129,Lemon Tree Hotel...,Public,"Delhi/NCR,Delhi + 51 more",Travel & Tourism / Hospitality,4.2,692 Reviews
+130,Jana Small Finan...,Public,"Bangalore/Bengaluru,Karnataka + 311 more",Banking,3.8,4.7k Reviews
+131,THE LEELA PALACE...,None,"Mumbai,Maharashtra + 24 more",Travel & Tourism / Hospitality,4.2,611 Reviews
+132,Shriram Automall,None,"Delhi/NCR,Delhi + 78 more",Automobile,4.4,351 Reviews
+133,Hitachi Systems ...,None,"Chiyoda City,Tokyo + 68 more",IT Services & Consulting,3.9,544 Reviews
+134,JK Cement,Public,"Gurgaon/Gurugram,Haryana + 183 more",Building Material,4.2,1.7k Reviews
+135,Delhi Metro Rail...,Public,"Delhi/NCR,New Delhi + 17 more",Manufacturing,4.1,206 Reviews
+136,Cromā,None,"Mumbai,Maharashtra + 82 more",Retail,4.3,1.2k Reviews
+137,Fujiyama Power S...,None,"Delhi/NCR,Delhi + 29 more",Power,3.7,240 Reviews
+138,Bajaj Finance,None,"Pune,Maharashtra + 608 more",Financial Services,4.1,4.4k Reviews
+139,Muthoot Fincorp,None,"Trivandrum/Thiruvananthapuram,Kerala + 426 more",Financial Services,4.0,2.3k Reviews
+140,ExportersIndia,None,New Delhi,Advertising / PR / Events,4.7,128 Reviews
+141,Arvind Group,Public,"Ahmedabad,Gujrat + 126 more",Manufacturing,4.1,2.4k Reviews
+142,Sir Ganga Ram Ho...,None,"Delhi/NCR,New Delhi + 12 more",Healthcare,4.4,184 Reviews
+143,Sterling & Wilso...,None,Mumbai + 66 more,Engineering & Construction,4.2,1.3k Reviews
+144,PVR Cinemas,Public,Gurgaon + 88 more,Media & Entertainment / Publishing,4.2,1.4k Reviews
+145,Air India,None,"Delhi/NCR,New Delhi + 40 more",Airlines / Aviation / Aerospace,3.9,891 Reviews
+146,Microtek Interna...,None,"Delhi/NCR,Delhi + 57 more",Consumer goods,3.9,346 Reviews
+147,Central Industri...,None,"Delhi/NCR,New Delhi + 56 more",Defence & Aerospace,4.5,447 Reviews
+148,DEN Networks,Public,"Delhi,NCT + 25 more",Internet,3.8,228 Reviews
+149,MapmyIndia,Public,"Delhi,NCT + 4 more",Internet,4.0,177 Reviews
+150,Vishal Mega Mart,None,"Ahmedabad,Gujrat + 252 more",Retail,3.9,1.8k Reviews
+151,Cipla Pharmaceut...,Public,"Mumbai,Maharashtra + 188 more",Manufacturing,4.1,4.9k Reviews
+152,Indiamart Interm...,None,"Noida,Uttar Pradesh + 106 more",Internet,3.8,2.4k Reviews
+153,Mobiloitte Techn...,None,"Delhi/NCR,Delhi + 2 more",Analytics & KPO,2.7,157 Reviews
+154,Home Credit Fina...,None,Gurugram + 101 more,NBFC,4.2,4k Reviews
+155,Rajiv Gandhi Can...,None,"Delhi/NCR,Delhi + 1 more",Analytics & KPO,4.0,153 Reviews
+156,Britannia,Public,"Reading,Reading + 166 more",FMCG,4.1,1.4k Reviews
+157,Ssipl Lifestyle,None,"Delhi/NCR,Delhi + 42 more",Manufacturing,4.0,299 Reviews
+158,The Lalit,None,New Delhi + 27 more,Travel & Tourism / Hospitality,3.9,538 Reviews
+159,Trivium Educatio...,None,"Delhi/NCR,Delhi + 6 more",Education & Training,3.7,173 Reviews
+160,NKG Infrastructu...,None,"Delhi/NCR,Delhi + 31 more",Engineering & Construction,3.8,237 Reviews
+161,Godrej & Boyce M...,None,"Mumbai,Maharashtra + 115 more",FMCG,3.9,2.9k Reviews
+162,Akums Drugs & Ph...,None,"Delhi/NCR,New Delhi + 25 more",Pharma,4.0,1.4k Reviews
+163,IndustryBuying.c...,None,"Delhi,NCT + 11 more",Import & Export,3.6,161 Reviews
+164,Panacea Biotec,Public,"Delhi/NCR,New Delhi + 44 more",Biotech & Life sciences,3.9,581 Reviews
+165,Indian Navy,None,"Delhi/NCR,Delhi + 56 more",Defence & Aerospace,4.7,1.3k Reviews
+166,Oriental Structu...,None,"Delhi/NCR,Delhi + 43 more",Engineering & Construction,4.2,402 Reviews
+167,DCB Bank,None,"Mumbai,Maharashtra + 246 more",Financial Services,4.0,1.9k Reviews
+168,V5 Global Servic...,None,"Delhi/NCR,Delhi + 88 more",Recruitment,3.8,451 Reviews
+169,H&M,None,"Stockholm,Stockholm + 29 more",Fashion & Textile,4.1,410 Reviews
+170,JW Marriott,None,"Bethesda,Maryland + 35 more",Travel & Tourism / Hospitality,4.3,801 Reviews
+171,Chaayos,None,"Delhi,NCT + 15 more",FMCG,4.0,272 Reviews
+172,Lenskart,None,"Delhi,NCT + 108 more",Internet,3.1,1.4k Reviews
+173,Crowne Plaza,Public,"Atlanta,Georgia + 28 more",Travel & Tourism / Hospitality,4.2,1.4k Reviews
+174,PC Solutions,None,"Delhi/NCR,Delhi + 12 more",IT Services & Consulting,3.8,229 Reviews
+175,Intelenet Global...,None,"Mumbai,Maharashtra + 56 more",BPO,3.7,3.3k Reviews
+176,Alankit,Public,"Delhi/NCR,New Delhi + 30 more",Financial Services,2.9,244 Reviews
+177,ACT Fibernet,None,"Bengaluru/Bangalore,Karnataka + 33 more",Internet,4.1,1.4k Reviews
+178,J. Kumar Infrapr...,Public,"Mumbai,Maharashtra + 23 more",Real Estate,4.1,880 Reviews
+179,Ernst & Young,None,London + 72 more,Consulting,3.8,6.2k Reviews
+180,Azure Power,None,"Delhi,NCT + 14 more",Internet,3.9,173 Reviews
+181,Accenture,Public,Dublin + 141 more,IT Services & Consulting,4.1,32.3k Reviews
+182,Extramarks Educa...,None,"Noida,Uttar Pradesh + 90 more",Internet,3.8,1.4k Reviews
+183,Taj Hotels Resor...,None,119 years old,Travel & Tourism / Hospitality,4.3,1.1k Reviews
+184,ICICI Securities,Public,"Mumbai,Maharashtra + 102 more",Financial Services,3.7,1.2k Reviews
+185,TOPS,None,"Delhi,NCT + 28 more",Food Processing,3.9,219 Reviews
+186,Caretel Infotech,None,"Delhi/NCR,New Delhi + 8 more",Analytics & KPO,3.6,209 Reviews
+187,AU Small Finance...,None,"Jaipur,Rajasthan + 286 more",Banking,4.0,4.3k Reviews
+188,Deloitte,None,"New York,New York + 134 more",Consulting,4.1,10.3k Reviews
+189,Samsung,Public,Seoul + 352 more,Consumer goods,4.0,7.6k Reviews
+190,Tata AIA Life In...,None,"Mumbai,Maharashtra + 205 more",Financial Services,4.0,1.8k Reviews
+191,Vivo,None,"Gurgaon/Gurugram,Haryana + 329 more",Consumer goods,4.1,3.5k Reviews
+192,Varun Beverages,Public,"Gurgaon/Gurugram,Haryana + 194 more",Food Processing,4.0,2.1k Reviews
+193,Ujjivan Small Fi...,Public,"Bangalore/Bengaluru,Karnataka + 381 more",Financial Services,4.1,3.8k Reviews
+194,PNB MetLife,None,"Mumbai,Maharashtra + 241 more",Financial Services,3.7,1.7k Reviews
+195,SMC Global Secur...,Public,SMC Global Securities Ltd. + 47 more,Financial Services,3.6,310 Reviews
+196,Glaze Trading In...,None,"Delhi/NCR,Delhi + 73 more",FMCG,4.0,352 Reviews
+197,Eureka Forbes,None,"Mumbai,Maharashtra + 146 more",Consumer goods,4.0,1.6k Reviews
+198,Aimil Pharmaceut...,None,"Delhi/NCR,New Delhi + 31 more",Industrial Machinery,3.6,249 Reviews
+199,Mahindra & Mahin...,Public,"Mumbai,Maharashtra + 408 more",Automobile,3.9,39.6k Reviews
+200,Punjab National ...,None,"Delhi/NCR,Delhi + 128 more",Financial Services,4.0,583 Reviews
+201,Tata Play,Public,"Mumbai,Maharashtra + 161 more",Media & Entertainment / Publishing,4.2,1.1k Reviews
+202,Fortis Healthcar...,Public,"Gurgaon/Gurugram,Haryana + 48 more",Healthcare,4.1,2.1k Reviews
+203,Central Public W...,None,"Delhi/NCR,New Delhi + 90 more",Architecture & Interior Design,4.1,404 Reviews
+204,Ekart Logistics,None,"San Francisco,California + 391 more",Internet,4.2,1.8k Reviews
+205,DCM Shriram,Public,"Delhi/NCR,New Delhi + 60 more",Chemicals / Agri Inputs,4.2,718 Reviews
+206,SEED CSR,None,New Delhi + 6 more,Non-Profit,4.7,112 Reviews
+207,Sterlite Power T...,None,12 years old,Power,4.0,349 Reviews
+208,Competent Softwa...,None,"Delhi/NCR,New Delhi + 6 more",IT Services & Consulting,3.9,320 Reviews
+209,SBI Cards & Paym...,None,"Gurgaon/Gurugram,Haryana + 244 more",Financial Services,3.8,2.6k Reviews
+210,NTPC,None,"Delhi/NCR,Delhi + 84 more",Power,4.1,1.5k Reviews
+211,KFC,None,"Louisville,Kentucky + 117 more",Retail,4.2,932 Reviews
+212,Wipro Infotech,None,Bangalore + 114 more,IT Services & Consulting,4.0,2.4k Reviews
+213,Mahindra Holiday...,None,"Chennai,Tamil Nadu + 86 more",Travel & Tourism / Hospitality,3.7,1.4k Reviews
+214,SBI Life Insuran...,None,"Mumbai,Maharashtra + 423 more",Financial Services,3.8,2.3k Reviews
+215,Delhivery,None,"Delhi,NCT + 465 more",Internet,4.2,3.7k Reviews
+216,Entab Infotech,None,"Delhi/NCR,New Delhi + 8 more",Education & Training,2.8,133 Reviews
+217,Ecom Express,None,"Gurgaon,Haryana + 481 more",Internet,4.2,2.3k Reviews
+218,Paras Dairy,Public,"Delhi/NCR,Delhi + 42 more",FMCG,3.7,366 Reviews
+219,DHL Express,None,Bonn + 74 more,Facility Management Services,4.2,2.1k Reviews
+220,Hyundai Motor,None,Seoul + 226 more,Automobile,4.2,4k Reviews
+221,Burger King,None,Miami + 56 more,Retail,3.9,685 Reviews
+222,Hindustan Unilev...,Public,"Mumbai,Maharashtra + 353 more",FMCG,4.3,4.5k Reviews
+223,Win Medicare,None,"Delhi/NCR,Delhi + 42 more",Manufacturing,4.1,245 Reviews
+224,Aircel,None,"Gurgaon/Gurugram,Haryana + 114 more",Telecom,4.4,1.1k Reviews
+225,Delhi Internatio...,None,16 years old,Aviation,4.1,116 Reviews
+226,B. G. Shirke Con...,None,"Pune,Maharashtra + 22 more",Engineering & Construction,4.2,515 Reviews
+227,Blinkit,None,"Gurgaon,Haryana + 51 more",Internet,3.8,1.2k Reviews
+228,Jindal Stainless,Public,"Delhi/NCR,New Delhi + 42 more",Iron & Steel,4.2,1.1k Reviews
+229,American Express,None,"New York City,New York + 35 more",Financial Services,4.4,2k Reviews
+230,Excitel Broadban...,None,"Delhi,NCT + 20 more",Telecom,3.7,198 Reviews
+231,XpressBees,None,"Pune,Maharashtra + 172 more",Internet,4.0,1.2k Reviews
+232,Metro,None,"Bangalore/Bengaluru,Karnataka + 54 more",Consumer goods,4.2,1.1k Reviews
+233,Tata Capital Fin...,Public,Mumbai + 123 more,Financial Services,4.2,1.2k Reviews
+234,TCNS Clothing Co...,Public,"Delhi/NCR,Delhi + 66 more",Retail,4.3,441 Reviews
+235,Nagarjuna Constr...,Public,"Hyderabad/Secunderabad,Telangana + 183 more",Engineering & Construction,4.1,2.5k Reviews
+236,BPTP,None,"Gurgaon/Gurugram,Haryana + 4 more",Real Estate,4.2,231 Reviews
+237,Bajaj Capital,Public,"Delhi/NCR,New Delhi + 121 more",Financial Services,3.8,1.1k Reviews
+238,University of De...,Public,"Delhi/NCR,New Delhi + 3 more",Education & Training,4.1,202 Reviews
+239,Spicejet,Public,"Gurgaon/Gurugram,Haryana + 50 more",Airlines / Aviation / Aerospace,3.6,816 Reviews
+240,NDTV,None,"Delhi/NCR,New Delhi + 4 more",Media & Entertainment / Publishing,3.7,117 Reviews
+241,Shriram Pistons ...,Public,"Delhi/NCR,Delhi + 37 more",Import & Export,4.2,744 Reviews
+242,Angel One,None,5k-10k Employees (India),Financial Services,3.9,986 Reviews
+243,Berger Paints,Public,"Kolkata,West Bengal + 182 more",Chemicals / Agri Inputs,3.8,1.8k Reviews
+244,Ministry of Defe...,None,"Delhi/NCR,Delhi + 53 more",Defence & Aerospace,4.6,366 Reviews
+245,Cargo Service Ce...,None,Mumbai + 7 more,Logistics / Shipping,3.6,155 Reviews
+246,HT Media,Public,"Delhi/NCR,Delhi + 36 more",Media & Entertainment / Publishing,3.8,741 Reviews
+247,BigBasket,None,"Bangalore,Karnataka + 80 more",Internet,4.1,2.4k Reviews
+248,OPPO,Public,"Dongguan,Guangdong + 321 more",Manufacturing,4.0,3.9k Reviews
+249,Border Security ...,None,"Delhi/NCR,New Delhi + 59 more",Defence & Aerospace,4.4,427 Reviews
+250,Mahindra & Mahin...,Public,"Mumbai,Maharashtra + 554 more",Financial Services,4.3,5k Reviews
+251,Hamdard,None,"Delhi/NCR,Delhi + 41 more",FMCG,4.1,218 Reviews
+252,Moolchand Medcit...,None,"Delhi/NCR,New Delhi + 2 more",Healthcare,3.2,139 Reviews
+253,Security and Int...,Public,"Delhi/NCR,Delhi + 129 more",Law Enforcement & Security,4.2,864 Reviews
+254,Ninjacart,None,"Bangalore,Karnataka + 73 more",Internet,3.7,1.1k Reviews
+255,Jindal Poly Film...,Public,"Delhi/NCR,Delhi + 5 more",Manufacturing,3.6,265 Reviews
+256,Modi Mundi Pharm...,None,"Delhi/NCR,Delhi + 32 more",Manufacturing,3.8,184 Reviews
+257,Patanjali Ayurve...,None,"Haridwar,Uttarakhand + 218 more",Beauty & Wellness,4.0,1.7k Reviews
+258,Life Insurance C...,None,Mumbai + 357 more,Financial Services,4.3,1.5k Reviews
+259,Intercontinental...,None,"Delhi/NCR,New Delhi + 40 more",Consulting,4.0,214 Reviews
+260,MBL Infrastructu...,Public,"Delhi/NCR,Delhi + 15 more",Engineering & Construction,4.0,157 Reviews
+261,S.S. Kothari Meh...,None,"Delhi/NCR,Delhi + 4 more",Accounting & Auditing,3.6,126 Reviews
+262,1 India Family M...,None,"Gurgaon,Haryana + 50 more",Internet,3.9,271 Reviews
+263,Webtel Electroso...,None,"Delhi/NCR,Delhi + 9 more",Recruitment,4.0,128 Reviews
+264,LG Electronics,Public,"Seoul,Seoul + 186 more",Consumer goods,4.0,2.3k Reviews
+265,Evelyn Learning ...,None,"Delhi/NCR,New Delhi + 8 more",Education & Training,3.9,282 Reviews
+266,Lea Associates S...,None,"Delhi/NCR,Delhi + 84 more",Architecture & Interior Design,4.3,432 Reviews
+267,Translumina Ther...,None,"Delhi,NCT + 7 more",Internet,4.7,105 Reviews
+268,Utkarsh Small Fi...,Public,"Varanasi,Uttar Pradesh + 216 more",Financial Services,4.0,1.6k Reviews
+269,Evelyn Learning ...,None,"Delhi/NCR,New Delhi + 8 more",Education & Training,3.9,282 Reviews
+270,Translumina Ther...,None,"Delhi,NCT + 7 more",Internet,4.7,105 Reviews
+271,Morepen Laborato...,Public,"Baddi,Himachal Pradesh + 23 more",Analytics & KPO,3.7,261 Reviews
+272,Bussan Auto Fina...,None,New Delhi + 41 more,Financial Services,4.3,267 Reviews
+273,Haldiram Foods,None,Nagpur + 72 more,FMCG,4.0,890 Reviews
+274,JK Lakshmi Cemen...,Public,"Delhi/NCR,New Delhi + 94 more",Building Material,4.2,688 Reviews
+275,Bird Worldwide F...,None,New Delhi + 7 more,Airlines / Aviation / Aerospace,3.7,193 Reviews
+276,Bajaj Allianz Ge...,None,None,None,4.3,1.4k Reviews
+277,AISATS,None,Mumbai + 7 more,Urban Transport,3.8,162 Reviews
+278,Teleperformance,None,Paris + 122 more,BPO,3.6,14.4k Reviews
+279,Vestige,None,"Delhi/NCR,Delhi + 80 more",FMCG,4.4,332 Reviews
+280,Frankfinn Instit...,None,"Gurgaon/Gurugram,Haryana + 50 more",Education & Training,4.0,812 Reviews
+281,Best Sellers,None,Brande + 66 more,Retail,4.4,764 Reviews
+282,Shyam Indus Powe...,None,"Delhi/NCR,Delhi + 18 more",Power,3.7,179 Reviews
+283,Jamia Hamdard Un...,Public,New Delhi,Education & Training,4.0,101 Reviews
+284,G4S,None,"Gurgaon/Gurugram,Haryana + 104 more",Financial Services,4.1,1.5k Reviews
+285,Intertek,None,London + 62 more,Advertising / PR / Events,3.9,687 Reviews
+286,SISL Infotech,None,"Delhi/NCR,Delhi + 31 more",Analytics & KPO,3.6,171 Reviews
+287,Infodrive,None,"New Delhi,Delhi",Other,4.6,183 Reviews
+288,Bajaj Electrical...,Public,"Mumbai,Maharashtra + 163 more",Industrial Machinery,4.1,1.9k Reviews
+289,The Web Plant,None,New Delhi,None,4.2,97 Reviews
+290,Bajaj Allianz Li...,None,Pune + 404 more,Financial Services,4.1,2.9k Reviews
+291,L&T Infotech,Public,"Mumbai,Maharashtra + 76 more",IT Services & Consulting,3.9,4.1k Reviews
+292,Birla Sun Life I...,None,"Mumbai,Maharashtra + 287 more",Financial Services,4.2,1.5k Reviews
+293,Surya Roshni,Public,"Delhi/NCR,Delhi + 49 more",Manufacturing,4.1,374 Reviews
+294,Kendriya Vidyala...,Public,"Delhi/NCR,Delhi + 163 more",Education & Training,4.3,683 Reviews
+295,Hero MotoCorp,Public,"Gurgaon/Gurugram,Haryana + 266 more",Automobile,4.2,3.2k Reviews
+296,Ozone Overseas,None,"Delhi/NCR,Delhi + 21 more",Architecture & Interior Design,3.6,193 Reviews
+297,Venkateshwar Hos...,None,"Delhi/NCR,Delhi + 1 more",Healthcare,3.5,116 Reviews
+298,Gautam Solar,None,New Delhi + 9 more,Manufacturing,3.9,117 Reviews
